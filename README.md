@@ -4,6 +4,7 @@
 
 ### Expressão de Busca
 
+```
 (elderly OR aged OR "older adult") AND ("mild cognitive impairment" OR MCI OR "cognitive impairment" OR "cognitive decline" OR "neurocognitive impairment" OR "neurocognitive disorder")
 
 AND
@@ -13,10 +14,7 @@ AND
 AND
 
 (memory OR "working memory" OR "semantic memory" OR "episodic memory")
-
-NOT
-
-(stroke OR "vascular dementia" OR "lewy body dementia" OR "huntington's disease" OR "parkinson disease" OR exercise OR diabetes)
+```
 
 ### Campos
 
