@@ -18,9 +18,7 @@ AND
 
 ### Campos
 
-- Título.
-- Abstract.
-- Keywords.
+Todos os campos.
 
 ### Documento
 
