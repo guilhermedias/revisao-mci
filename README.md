@@ -38,3 +38,18 @@ Material publicado nos últimos dez anos.
 - LILACS
 - Scopus
 - Web of Science
+
+## Critérios de Inclusão
+
+- Estudo empírico.
+- Participantes.
+  - Idosos saudáveis.
+  - Idosos com comprometimento cognitivo leve (CCL).
+  - Idosos com doença de Alzheimer.
+- Desenho de estudo.
+  - Pré-teste e pós teste.
+  - Grupo ou condição de controle.
+- Tipo de intervenção.
+  - Estimulação cognitiva.
+- Resultados.
+  - Pelo menos uma variável associada à memória.
