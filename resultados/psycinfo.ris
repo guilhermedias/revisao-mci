@@ -3,7 +3,6 @@ Database: PsycINFO
 Content: application/x-research-info-systems
 
 TY  - JOUR
-DESCRIPTORS  - *Aging;  *Computer Applications;  *Memory Training;  *Short Term Memory;  *Brain Training; Neural Plasticity; Verbal Memory; Visuospatial Memory
 PMID  - 32346804
 ID  - 2020-30050-001
 T1  - Feasibility of using a computer-assisted working memory training program for healthy older women.
@@ -35,78 +34,6 @@ M3  - doi:10.1007/s10339-020-00975-7
 DO  - 10.1007/s10339-020-00975-7
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Cognitive Impairment;  *Short Term Memory;  *Transfer (Learning);  *Verbal Ability;  *Brain Training; Aging; Memory Training; Executive Function; Mild Cognitive Impairment
-PMID  - 31474850
-ID  - 2019-51487-001
-T1  - The transfer effects of cognitive training on working memory among Chinese older adults with mild cognitive impairment: A randomized controlled trial.
-JF  - Frontiers in Aging Neuroscience
-A1  - Weng, Wenqi
-A1  - Liang, Jiaming
-A1  - Xue, Jiang
-A1  - Zhu, Tingfei
-A1  - Jiang, Yuxing
-A1  - Wang, Jiayu
-A1  - Chen, Shulin
-VL  - 11
-Y1  - 2019
-CY  - Switzerland
-AD  - Chen, Shulin: chenshulin@zju.edu.cn
-PB  - Frontiers Media S.A.
-SN  - 1663-4365(Electronic)
-N2  - Objectives: To explore the transfer effects of cognitive training on working memory among older Chinese adults with mild cognitive impairment (MCI). Methods: Sixty-two MCI participants aged more than 60 years old were recruited by holding recruitment sessions in communities in China [33 for cognitive training, and 29 for mental leisure activities (MLA) control]. Cognitive functions, including working memory, execution function, reasoning ability, verbal ability, ability of daily living, were measured at three time-points (baseline, post-training and 3 months after training). Results: Compared to the MLA control, the cognitive training group showed significant effects in both the trained (working memory) and untrained (execution function and ability of daily living) domains. The effects of cognitive training on overall cognitive function, working memory and daily life ability of daily living of MCI could be maintained for at least 3 months, even without the cognitive training. Besides, complete mediating effects of cognitive training were found in executive function through working memory and working memory in ability of daily living though executive function, which suggests the presence of transfer effect of cognitive training. Conclusions: The present study supported that cognitive training could effectively improve working memory in elders with MCI. The training effects on working memory could transfer to other untrained areas (such as executive function), which also improved the comprehensive ability (ability of daily living). And the effects of training could largely persist for 3 months. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
-KW  - *Cognitive Impairment
-KW  - *Short Term Memory
-KW  - *Transfer (Learning)
-KW  - *Verbal Ability
-KW  - *Brain Training
-KW  - Aging
-KW  - Memory Training
-KW  - Executive Function
-KW  - Mild Cognitive Impairment
-M3  - doi:10.3389/fnagi.2019.00212
-DO  - 10.3389/fnagi.2019.00212
-ER  -
-TY  - JOUR
-DESCRIPTORS  - *Age Differences;  *Geriatrics;  *Health Screening;  *Memory Training; Disease Screening
-PMID  - 25643739
-ID  - 2015-07394-013
-T1  - Findings from the National Memory Screening Day program.
-JF  - Journal of the American Geriatrics Society
-A1  - Bayley, Peter J.
-A1  - Kong, Jennifer Y.
-A1  - Mendiondo, Marta
-A1  - Lazzeroni, Laura C.
-A1  - Borson, Soo
-A1  - Buschke, Herman
-A1  - Dean, Margaret
-A1  - Fillit, Howard
-A1  - Frank, Lori
-A1  - Schmitt, Frederick A.
-A1  - Peschin, Susan
-A1  - Finkel, Sanford
-A1  - Austen, Melissa
-A1  - Steinberg, Carol
-A1  - Ashford, John Wesson
-VL  - 63
-IS  - 2
-SP  - 309
-EP  - 314
-Y1  - 2015
-CY  - United Kingdom
-AD  - Bayley, Peter J.: VA Palo Alto Health Care System, 3801 Miranda Avenue (151Y), Palo Alto, CA, US, 94304, Peter.Bayley@va.gov
-PB  - Wiley-Blackwell Publishing Ltd.
-SN  - 1532-5415(Electronic),0002-8614(Print)
-N2  - Objectives: To report experience with a large, nation‐wide public memory screening program. Design: Descriptive study of community‐dwelling elderly adults. Setting: Local community sites (48 sites agreed to provide data) throughout the United States participating in National Memory Screening Day in November 2010. Participants: Of 4,369 reported participants, 3,064 had complete data records and are included in this report. Measurements: Participants completed a questionnaire that included basic demographic information and a question about subjective memory concerns. Each site selected one of seven validated cognitive screening tests: Mini‐Cog, General Practitioner assessment of Cognition, Memory Impairment Screen, Kokmen Short Test of Mental Status, Mini‐Mental State Examination, Montreal Cognitive Assessment, Saint Louis University Mental Status Examination. Results: Overall, 11.7% failed one of the seven screening tests. As expected, failure rates were higher in older and less‐educated participants (P's < .05). Subjective memory concerns were associated with a 40% greater failure rate for persons of similar age and education but no memory concerns (odds ratio = 1.4, 95% confidence interval = 1.07–1.78), although only 11.9% of those who reported memory concerns (75% of all participants) had detectible memory problems. Conclusion: Screening for cognitive impairment in community settings yielded results consistent with expected effects of age and education. The event attracted a large proportion of individuals with memory concerns; 88.1% were told that they did not have memory problems detectible with the tests used. Further studies are needed to assess how participants respond to and use screening information, whether this information ultimately influences decision‐making or outcomes, and whether memory screening programs outside healthcare settings have public health value. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
-KW  - *Age Differences
-KW  - *Geriatrics
-KW  - *Health Screening
-KW  - *Memory Training
-KW  - Disease Screening
-M3  - doi:10.1111/jgs.13234
-DO  - 10.1111/jgs.13234
-ER  -
-TY  - JOUR
-DESCRIPTORS  - *Cognitive Impairment;  *Memory;  *Mice;  *Recognition (Learning); Animal Models
 PMID  - 26162480
 ID  - 2015-43196-003
 T1  - Repeated cognitive stimulation alleviates memory impairments in an Alzheimer’s disease mouse model.
@@ -135,100 +62,6 @@ M3  - doi:10.1016/j.brainresbull.2015.07.001
 DO  - 10.1016/j.brainresbull.2015.07.001
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Cognitive Impairment;  *Memory Training;  *Short Term Memory;  *Training;  *Neurotherapy; Alzheimer's Disease; Stimulus Discrimination; Mismatch Negativity
-ID  - 2020-77421-001
-T1  - Enhancing working memory based on mismatch negativity neurofeedback in subjective cognitive decline patients: A preliminary study.
-JF  - Frontiers in Aging Neuroscience
-A1  - Pei, Guangying
-A1  - Yang, Ruoshui
-A1  - Shi, Zhongyan
-A1  - Guo, Guoxin
-A1  - Wang, Shujie
-A1  - Liu, Miaomiao
-A1  - Qiu, Yuxiang
-A1  - Wu, Jinglong
-A1  - Go, Ritsu
-A1  - Han, Ying
-A1  - Yan, Tianyi
-VL  - 12
-Y1  - 2020
-CY  - Switzerland
-AD  - Liu, Miaomiao: 14777693@qq.com
-PB  - Frontiers Media S.A.
-SN  - 1663-4365(Electronic)
-N2  - Mismatch negativity (MMN) is suitable for studies of preattentive auditory discriminability and the auditory memory trace. Subjective cognitive decline (SCD) is an ideal target for early therapeutic intervention because SCD occurs at preclinical stages many years before the onset of Alzheimer’s disease (AD). According to a novel lifespan-based model of dementia risk, hearing loss is considered the greatest potentially modifiable risk factor of dementia among nine health and lifestyle factors, and hearing impairment is associated with cognitive decline. Therefore, we propose a neurofeedback training based on MMN, which is an objective index of auditory discriminability, to regulate sensory ability and memory as a non-pharmacological intervention (NPI) in SCD patients. Seventeen subjects meeting the standardized clinical evaluations for SCD received neurofeedback training. The auditory frequency discrimination test, the visual digital N-back (1-, 2-, and 3-back), auditory digital N-back (1-, 2-, and 3-back), and auditory tone N-back (1-, 2-, and 3-back) tasks were used pre- and post-training in all SCD patients. The intervention schedule comprised five 60-min training sessions over 2 weeks. The results indicate that the subjects who received neurofeedback training had successfully improved the amplitude of MMN at the parietal electrode (Pz). A slight decrease in the threshold of auditory frequency discrimination was observed after neurofeedback training. Notably, after neurofeedback training, the working memory (WM) performance was significantly enhanced in the auditory tone 3-back test. Moreover, improvements in the accuracy of all WM tests relative to the baseline were observed, although the changes were not significant. To the best of our knowledge, our preliminary study is the first to investigate the effects of MMN neurofeedback training on WM in SCD patients, and our results suggest that MMN neurofeedback may represent an effective treatment for intervention in SCD patients and the elderly with aging memory decline. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
-KW  - *Cognitive Impairment
-KW  - *Memory Training
-KW  - *Short Term Memory
-KW  - *Training
-KW  - *Neurotherapy
-KW  - Alzheimer's Disease
-KW  - Stimulus Discrimination
-KW  - Mismatch Negativity
-M3  - doi:10.3389/fnagi.2020.00263
-DO  - 10.3389/fnagi.2020.00263
-ER  -
-TY  - JOUR
-DESCRIPTORS  - *Attention Deficit Disorder with Hyperactivity;  *Cognitive Impairment;  *School Based Intervention;  *Short Term Memory;  *Executive Function; Academic Achievement
-PMID  - 23311304
-ID  - 2013-04389-001
-T1  - Interventions to improve executive functioning and working memory in school-aged children with AD(H)D: A randomised controlled trial and stepped-care approach.
-JF  - BMC Psychiatry
-A1  - van der Donk, Marthe L. A.
-A1  - Hiemstra-Beernink, Anne-Claire
-A1  - Tjeenk-Kalff, Ariane C.
-A1  - van der Leij, Aryan V.
-A1  - Lindauer, Ramón J. L.
-VL  - 13
-Y1  - 2013
-CY  - United Kingdom
-AD  - van der Donk, Marthe L. A.: Department of Child and Adolescent Psychiatry, Academic Medical Centre Amsterdam, University of Amsterdam, Meibergdreef 5, Amsterdam, Netherlands, 1105 AZ, m.vanderdonk@debascule.com
-PB  - BioMed Central Limited
-SN  - 1471-244X(Electronic)
-N2  - Background: Deficits in executive functioning are of great significance in attention-deficit/hyperactivity disorder (ADHD). One of these executive functions, working memory, plays an important role in academic performance and is often seen as the core deficit of this disorder. There are indications that working memory problems and academic performance can be improved by school-oriented interventions but this has not yet been studied systematically. In this study we will determine the short- and long-term effects of a working memory—and an executive function training applied in a school situation for children with AD(H)D, taking individual characteristics, the level of impairment and costs (stepped-care approach) into account. Methods/design: The study consists of two parts: the first part is a randomised controlled trial with school-aged children (8–12 yrs) with AD(H)D. Two groups (each n = 50) will be randomly assigned to a well studied computerized working memory training ‘Cogmed’, or to the ‘Paying attention in class’ intervention which is an experimental school-based executive function training. Children will be selected from regular -and special education primary schools in the region of Amsterdam, the Netherlands. The second part of the study will determine which specific characteristics are related to non-response of the ‘Paying attention in class’ intervention. School-aged children (8–12 yrs) with AD(H)D will follow the experimental school-based executive function training ‘Paying attention in class’ (n = 175). Academic performance and neurocognitive functioning (primary outcomes) are assessed before, directly after and 6 months after training. Secondary outcome measures are: behaviour in class, behaviour problems and quality of life. Discussion: So far, there is limited but promising evidence that working memory—and other executive function interventions can improve academic performance. Little is know about the applicability and generalization effects of these interventions in a classroom situation. This study will contribute to this lack of information, especially information related to real classroom and academic situations. By taking into account the costs of both interventions, level of impairment and individual characteristics of the child (stepped-care approach) we will be able to address treatment more adequately for each individual in the future. Trial registration: Nederlands Trial Register NTR3415. (PsycInfo Database Record (c) 2021 APA, all rights reserved)
-KW  - *Attention Deficit Disorder with Hyperactivity
-KW  - *Cognitive Impairment
-KW  - *School Based Intervention
-KW  - *Short Term Memory
-KW  - *Executive Function
-KW  - Academic Achievement
-M3  - doi:10.1186/1471-244X-13-23
-DO  - 10.1186/1471-244X-13-23
-ER  -
-TY  - JOUR
-DESCRIPTORS  - *Cognitive Rehabilitation;  *Memory Training;  *Short Term Memory; Activities of Daily Living; Cognitive Impairment; Goals; Management Training; Traumatic Brain Injury
-PMID  - 30272538
-ID  - 2018-49487-001
-T1  - Incorporation of a working memory strategy in GMT to facilitate serial-order behaviour in brain-injured patients.
-JF  - Neuropsychological Rehabilitation
-A1  - Emmanouel, Anna
-A1  - Kontrafouri, Ellisavet
-A1  - Nikolaos, Psarras
-A1  - Kessels, Roy P. C.
-A1  - Fasotti, Luciano
-VL  - 30
-IS  - 5
-SP  - 888
-EP  - 914
-Y1  - 2020
-CY  - United Kingdom
-AD  - Fasotti, Luciano: Donders Institute for Brain, Cognition and Behaviour, Radboud University Nijmegen, Montessorilaan 3, Nijmegen, Netherlands, 6500, l.fassoti@donders.ru.nl
-PB  - Taylor & Francis
-SN  - 1464-0694(Electronic),0960-2011(Print)
-N2  - Goal Management Training (GMT) is an effective method for improving disorganised behaviour in multistep real-life tasks after brain damage. In the present study we incorporated Working Memory Training (WMT) in GMT to explore their combined efficacy in facilitating the serial-order maintenance of the steps that had to be learned. GMT+WMT was compared to a control WMT designed for other purposes. For this purpose 18 brain-injured patients (aged 20–54), who were at least 4 months post-onset, were randomly assigned to either the GMT+WMT or the WMT treatment. Inclusion was based on a baseline score of less than six correct steps on each of two multistep everyday tasks. Alternative versions of these tasks were used as primary outcome tasks. Pre-treatment and post-treatment comparisons of scores on these primary tasks and on several secondary neuropsychological measures were collected. The results show that post-treatment the GMT+WMT group performed significantly better than the WMT group on the primary outcome measures and on several ecologically valid executive tests that demanded a step-by-step maintenance of multiple actions. Time effects were found for both groups on the secondary measures. Other measures showed no significant differences. We conclude that our results support the efficacy of the combined GMT+WMT in facilitating performance in everyday multistep tasks. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
-KW  - *Cognitive Rehabilitation
-KW  - *Memory Training
-KW  - *Short Term Memory
-KW  - Activities of Daily Living
-KW  - Cognitive Impairment
-KW  - Goals
-KW  - Management Training
-KW  - Traumatic Brain Injury
-M3  - doi:10.1080/09602011.2018.1517369
-DO  - 10.1080/09602011.2018.1517369
-ER  -
-TY  - JOUR
-DESCRIPTORS  - *Cognitive Impairment;  *Exercise;  *Gerontology;  *Quality of Life;  *Older Adulthood; Neuropsychological Assessment; Physical Fitness; Physical Therapy; Training
 PMID  - 33679369
 ID  - 2021-23700-001
 T1  - Dual-task exercise to improve cognition and functional capacity of healthy older adults.
@@ -263,34 +96,6 @@ M3  - doi:10.3389/fnagi.2021.589299
 DO  - 10.3389/fnagi.2021.589299
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Cognitive Impairment;  *Geriatrics;  *Memory; Stimulation
-ID  - 2017-54036-007
-T1  - Cognitive stimulation of elderly residents in social protection centers in Cartagena, 2014.
-JF  - Revista Colombiana de Psiquiatría
-A1  - Melguizo Herrera, Estela
-A1  - Bertel De La Hoz, Anyel
-A1  - Paternina Osorio, Diego
-A1  - Felfle Fuentes, Yurani
-A1  - Porto Osorio, Leidy
-VL  - 46
-IS  - 4
-SP  - 229
-EP  - 236
-Y1  - 2017
-CY  - Netherlands
-AD  - Melguizo Herrera, Estela: Emelguizoh@unicartagena.edu.co
-PB  - Elsevier Science
-SN  - 2530-3139(Electronic),0034-7450(Print)
-N2  - Objective: To determine the effectiveness of a program of cognitive stimulation of the elderly residents in Social Protection Centers in Cartagena, 2014. Methods: Quasi-experimental study with pre and post tests in control and experimental groups. A sample of 37 elderly residents in Social Protection Centers participated: 23 in the experimental group and 14 in the control group. A survey and a mental evaluation test (Pfeiffer) were applied. The experimental group participated in 10 sessions of cognitive stimulation. Results: The paired t-test showed statistically significant differences in the Pfeiffer test, pre and post intervention, compared to the experimental group (P = .0005). The unpaired t-test showed statistically significant differences in Pfeiffer test results to the experimental and control groups (P = .0450). The analysis of the main components showed that more interrelated variables were: age, diseases, number of errors and test results; which were grouped around the disease variable, with a negative association. Conclusions: The intervention demonstrated a statistically significant improvement in cognitive functionality of the elderly. Nursing can lead this type of intervention. It should be studied further to strengthen and clarify these results. (PsycINFO Database Record (c) 2018 APA, all rights reserved)
-KW  - *Cognitive Impairment
-KW  - *Geriatrics
-KW  - *Memory
-KW  - Stimulation
-M3  - doi:10.1016/j.rcp.2016.09.008
-DO  - 10.1016/j.rcp.2016.09.008
-ER  -
-TY  - JOUR
-DESCRIPTORS  - *Cognitive Rehabilitation;  *Diagnosis;  *Geriatrics;  *Memory; Neural Plasticity
 PMID  - 21314646
 ID  - 2011-03150-009
 T1  - Improvement in memory with plasticity‐based adaptive cognitive training: Results of the 3‐month follow‐up.
@@ -321,7 +126,6 @@ M3  - doi:10.1111/j.1532-5415.2010.03277.x
 DO  - 10.1111/j.1532-5415.2010.03277.x
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Cognitive Impairment;  *Long Term Care;  *Occupational Therapy; Aging; Cognition; Quality of Life
 ID  - 2017-55816-003
 T1  - Occupational therapy prevents cognitive impairment on long-term care residents.
 JF  - Physical & Occupational Therapy in Geriatrics
@@ -348,7 +152,6 @@ M3  - doi:10.1080/02703181.2017.1339757
 DO  - 10.1080/02703181.2017.1339757
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Geriatrics;  *Memory Decay;  *Memory Training; Education Policy
 ID  - 2016-55448-002
 T1  - Effects of a memory training program in older people with severe memory loss.
 JF  - Educational Gerontology
@@ -376,35 +179,6 @@ M3  - doi:10.1080/03601277.2016.1205401
 DO  - 10.1080/03601277.2016.1205401
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Activity Level;  *Memory;  *Prospective Memory; Activities of Daily Living; Cognitive Impairment
-PMID  - 29988335
-ID  - 2018-59233-012
-T1  - Challenges faced and lessons learned: A multi-component prospective memory training program for Malaysian older adults.
-JF  - Dementia & Neuropsychologia
-A1  - Farzin, Azin
-A1  - Ibrahim, Rahimah
-A1  - Madon, Zainal
-A1  - Basri, Hamidon
-VL  - 12
-IS  - 2
-SP  - 189
-EP  - 195
-Y1  - 2018
-CY  - Brazil
-AD  - Ibrahim, Rahimah: Malaysian Research Institute on Aging, University Putra Malaysia (UPM), Selangor, Serdang, Malaysia, 43400, imahibrahim@upm.edu.my
-PB  - Associação Neurologia Cognitiva  e do Comportamento
-SN  - 1980-5764(Print)
-N2  - The surrounding circumstances and environments of Malaysian older adults could make conducting interventions (mainly in terms of clinical or randomized controlled trials) a challenge. Working with older adults and facing cultural issues could be challenging. Objective: This paper illustrates a significant perspective of some of the challenges faced while conducting a randomized controlled trial exploring the impact of a multi-component intervention that included strategy- and process-based prospective memory (PM) training among Malaysian older adults. Methods: The current study was a randomized controlled trial (RCT) and therefore the challenges were presented in accordance with the CONSORT statement style. Results: A discussion on how these issues were addressed is provided. Conclusion: Some suggestions were presented to help researchers plan and create interventions for similar studies and to support a practical method of addressing all related challenges. (PsycINFO Database Record (c) 2019 APA, all rights reserved)
-KW  - *Activity Level
-KW  - *Memory
-KW  - *Prospective Memory
-KW  - Activities of Daily Living
-KW  - Cognitive Impairment
-M3  - doi:10.1590/1980-57642018dn12-020012
-DO  - 10.1590/1980-57642018dn12-020012
-ER  -
-TY  - JOUR
-DESCRIPTORS  - *Aerobic Exercise;  *Cognitive Impairment;  *Dementia; Memory Training
 PMID  - 29480182
 ID  - 2018-39801-026
 T1  - Simultaneous aerobic exercise and memory training program in older adults with subjective memory impairments.
@@ -440,7 +214,6 @@ M3  - doi:10.3233/JAD-170846
 DO  - 10.3233/JAD-170846
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Physical Activity;  *Short Term Memory;  *Animal Cognition;  *Brain Derived Neurotrophic Factor; Cognitive Rehabilitation; Rats
 PMID  - 22157145
 ID  - 2012-12061-010
 T1  - Improved working memory following novel combinations of physical and cognitive activity.
@@ -467,7 +240,6 @@ M3  - doi:10.1177/1545968311425919
 DO  - 10.1177/1545968311425919
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Alzheimer's Disease;  *Cognitive Impairment;  *Geriatrics;  *Memory Disorders; Risk Factors
 PMID  - 21647682
 ID  - 2011-19468-014
 T1  - Alzheimer disease: Are we intervening too late?
@@ -492,39 +264,6 @@ M3  - doi:10.1007/s00702-011-0663-0
 DO  - 10.1007/s00702-011-0663-0
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Aging;  *Cognitive Impairment;  *Memory;  *Memory Training;  *Self-Help Techniques; Residential Care Institutions
-PMID  - 25388143
-ID  - 2015-31880-009
-T1  - Self-help memory training for healthy older adults in a residential care center: Specific and transfer effects on performance and beliefs.
-JF  - International Journal of Geriatric Psychiatry
-A1  - Cavallini, Elena
-A1  - Bottiroli, Sara
-A1  - Capotosto, Emanuela
-A1  - De Beni, Rossana
-A1  - Pavan, Giorgio
-A1  - Vecchi, Tomaso
-A1  - Borella, Erika
-VL  - 30
-IS  - 8
-SP  - 870
-EP  - 880
-Y1  - 2015
-CY  - US
-AD  - Cavallini, Elena: ecava@unipv.it
-PB  - John Wiley & Sons
-SN  - 1099-1166(Electronic),0885-6230(Print)
-N2  - Background: Cognitive flexibility has repeatedly been shown to improve after training programs in community‐dwelling older adults, but few studies have focused on healthy older adults living in other settings. Objectives: This study investigated the efficacy of self‐help training for healthy older adults in a residential care center on memory tasks they practiced (associative and object list learning tasks) and any transfer to other tasks (grocery lists, face–name learning, figure–word pairing, word lists, and text learning). Transfer effects on everyday life (using a problem‐solving task) and on participants' beliefs regarding their memory (efficacy and control) were also examined. With the aid of a manual, the training adopted a learner‐oriented approach that directly encouraged learners to generalize strategic behavior to new tasks. The maintenance of any training benefits was assessed after 6 months. Method: The study involved 34 residential care center residents (aged 70–99 years old) with no cognitive impairments who were randomly assigned to two programs: the experimental group followed the self‐help training program, whereas the active control group was involved in general cognitive stimulation activities. Results: Training benefits emerged in the trained group for the tasks that were practiced. Transfer effects were found in memory and everyday problem‐solving tasks and on memory beliefs. The effects of training were generally maintained in both practiced and unpracticed memory tasks. Conclusion: These results demonstrate that learner‐oriented self‐help training enhances memory performance and memory beliefs, in the short term at least, even in residential care center residents. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
-KW  - *Aging
-KW  - *Cognitive Impairment
-KW  - *Memory
-KW  - *Memory Training
-KW  - *Self-Help Techniques
-KW  - Residential Care Institutions
-M3  - doi:10.1002/gps.4230
-DO  - 10.1002/gps.4230
-ER  -
-TY  - JOUR
-DESCRIPTORS  - *Cognitive Impairment;  *Geriatrics;  *Neuropsychological Rehabilitation;  *Self-Esteem; Brain Training
 ID  - 2019-14538-013
 T1  - Effect of cognitive stimulation workshops on the self-esteem and cognition of the elderly: A pilot project.
 JF  - Dementia & Neuropsychologia
@@ -552,7 +291,6 @@ M3  - doi:10.1590/1980-57642018dn12-040013
 DO  - 10.1590/1980-57642018dn12-040013
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Caregivers;  *Cognitive Therapy;  *Quality of Life;  *Neurocognitive Disorders; Activities of Daily Living; Aging; Elder Care; Geriatric Psychotherapy; Social Functioning
 ID  - 2020-60901-005
 T1  - Effects of caregiver-provided individual cognitive interventions on cognition, social functioning and quality of life in older adults with major neurocognitive disorders: A systematic review.
 JF  - JBI Evidence Synthesis
@@ -586,7 +324,6 @@ KW  - Geriatric Psychotherapy
 KW  - Social Functioning
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Cognitive Impairment;  *Death and Dying;  *Dementia;  *Coronavirus; Stimulation; Viral Disorders
 PMID  - 33192483
 ID  - 2020-84987-001
 T1  - Cognitive and neuropsychiatric manifestations of COVID-19 and effects on elderly individuals with dementia.
@@ -612,7 +349,6 @@ M3  - doi:10.3389/fnagi.2020.588872
 DO  - 10.3389/fnagi.2020.588872
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Cognitive Impairment;  *Virtual Reality;  *Oxidative Stress;  *Brain Training; Aerobic Exercise
 PMID  - 30327596
 ID  - 2018-50621-001
 T1  - Effects of combined physical and cognitive virtual reality-based training on cognitive impairment and oxidative stress in mci patients: A pilot study.
@@ -645,42 +381,6 @@ M3  - doi:10.3389/fnagi.2018.00282
 DO  - 10.3389/fnagi.2018.00282
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Alzheimer's Disease;  *Memory;  *Memory Training;  *Functional Magnetic Resonance Imaging;  *Neurotherapy; Aging; Occipital Lobe; Posttesting
-PMID  - 31863845
-ID  - 2020-05224-001
-T1  - Changes in brain activation related to visuo-spatial memory after real-time fMRI neurofeedback training in healthy elderly and Alzheimer’s disease.
-JF  - Behavioural Brain Research
-A1  - Hohenfeld, Christian
-A1  - Kuhn, Hanna
-A1  - Müller, Christine
-A1  - Nellessen, Nils
-A1  - Ketteler, Simon
-A1  - Heinecke, Armin
-A1  - Goebel, Rainer
-A1  - Shah, N. Jon
-A1  - Schulz, Jörg B.
-A1  - Reske, Martina
-A1  - Reetz, Kathrin
-VL  - 381
-Y1  - 2020
-CY  - Netherlands
-AD  - Reetz, Kathrin: University Hospital Aachen, Department of Neurology, Pauwelsstrasse 30, Aachen, Germany, 52074, kreetz@ukaachen.de
-PB  - Elsevier Science
-SN  - 1872-7549(Electronic),0166-4328(Print)
-N2  - Cognitive decline is a symptom of healthy ageing and Alzheimer’s disease. We examined the effect of real-time fMRI based neurofeedback training on visuo-spatial memory and its associated neuronal response. Twelve healthy subjects and nine patients of prodromal Alzheimer’s disease were included. The examination spanned five days (T1–T5): T1 contained a neuropsychological pre-test, the encoding of an itinerary and a fMRI-based task related that itinerary. T2–T4 hosted the real-time fMRI neurofeedback training of the parahippocampal gyrus and on T5 a post-test session including encoding of another itinerary and a subsequent fMRI-based task were done. Scores from neuropsychological tests, brain activation and task performance during the fMRI-paradigm were compared between pre and post-test as well as between healthy controls and patients. Behavioural performance in the fMRI-task remained unchanged, while cognitive testing showed improvements in visuo-spatial memory performance. Both groups displayed task-relevant brain activation, which decreased in the right precentral gyrus and left occipital lobe from pre to post-test in controls, but increased in the right occipital lobe, middle frontal gyrus and left frontal lobe in the patient group. While results suggest that the training has affected brain activation differently between controls and patients, there are no pointers towards a behavioural manifestation of these changes. Future research is required on the effects that can be induced using real-time fMRI based neurofeedback training and the required training duration to elicit broad and lasting effects. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
-KW  - *Alzheimer's Disease
-KW  - *Memory
-KW  - *Memory Training
-KW  - *Functional Magnetic Resonance Imaging
-KW  - *Neurotherapy
-KW  - Aging
-KW  - Occipital Lobe
-KW  - Posttesting
-M3  - doi:10.1016/j.bbr.2019.112435
-DO  - 10.1016/j.bbr.2019.112435
-ER  -
-TY  - JOUR
-DESCRIPTORS  - *Memory Training;  *Models;  *Prognosis;  *Short Term Memory; Cognitive Processes; Healthy Aging; Older Adulthood
 PMID  - 33173503
 ID  - 2020-81867-001
 T1  - A systematic review on predictors of working memory training responsiveness in healthy older adults: Methodological challenges and future directions.
@@ -708,7 +408,6 @@ M3  - doi:10.3389/fnagi.2020.575804
 DO  - 10.3389/fnagi.2020.575804
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Aging;  *Cognition;  *Rehabilitation;  *Self-Care Skills;  *Training; Memory Training
 ID  - 2018-57333-008
 T1  - Rehabilitación de la memoria para adultos mayores: Preservación de la autonomía de vida. [Memory rehabilitation for older adults: Preserving independent living.]
 JF  - Estudios de Psicología
@@ -734,7 +433,6 @@ M3  - doi:10.1080/02109395.2018.1493844
 DO  - 10.1080/02109395.2018.1493844
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Aging;  *Cognitive Impairment;  *Memory;  *Psychodynamics;  *Mild Cognitive Impairment; Major Depression
 PMID  - 27025607
 ID  - 2016-16167-001
 T1  - Subjective memory complaints in Italian elderly with mild cognitive impairment: Implication of psychological status.
@@ -765,7 +463,6 @@ M3  - doi:10.1007/s10072-016-2553-6
 DO  - 10.1007/s10072-016-2553-6
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Dementia;  *Memory;  *Transcranial Direct Current Stimulation;  *Mild Cognitive Impairment; Episodic Memory; Patients
 PMID  - 32280093
 ID  - 2020-46167-017
 T1  - Impact of 3-day combined anodal transcranial direct current stimulation-visuospatial training on object-location memory in healthy older adults and patients with mild cognitive impairment.
@@ -795,40 +492,6 @@ M3  - doi:10.3233/JAD-191234
 DO  - 10.3233/JAD-191234
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Cognitive Impairment;  *Intervention;  *Verbal Learning;  *Apolipoprotein E; Computer Training; Memory Training
-PMID  - 32379048
-ID  - 2020-33513-001
-T1  - Web-based intervention effects on mild cognitive impairment based on Apolipoprotein E genotype: Quasi-experimental study.
-JF  - Journal of Medical Internet Research
-A1  - Tsolaki, Anthoula C.
-A1  - Tsolaki, Magda
-A1  - Pandria, Niki
-A1  - Lazarou, Eftychia
-A1  - Gkatzima, Olymbia
-A1  - Zilidou, Vasiliki
-A1  - Karagianni, Maria
-A1  - Iakovidou-Kritsi, Zafiroula
-A1  - Kimiskidis, Vasilios K.
-A1  - Bamidis, Panagiotis D.
-VL  - 22
-IS  - 5
-Y1  - 2020
-CY  - Canada
-AD  - Bamidis, Panagiotis D.: Medical Physics Laboratory, School of Medicine, Aristotle University of Thessaloniki, PO Box 376, Thessaloniki, Greece, pdbamidis@gmail.com
-PB  - JMIR Publications
-SN  - 1438-8871(Electronic),1439-4456(Print)
-N2  - Background: Apolipoprotein E (APOE) ε4 allele is a major genetic risk factor for Alzheimer disease and mild cognitive impairment (MCI). Computer-based training programs can improve cognitive performance in elderly populations. However, the effects of computer-based interventions on MCI APOE ε4 carriers have never been studied before. Objective: The effects of different web-based interventions and the APOE isoform-specific differences in training outcomes are investigated. Methods: Using a quasi-experimental study design, 202 participants with MCI aged 60 years and older took part in three different intervention programs (physical and cognitive [Long-Lasting Memories, or LLM], cognitive [Active Control, or AC], or physical intervention [Physical Training Control, or PTC]) via an innovative information and communication technologies exergaming platform. Participants in each interventional group were subdivided into APOE ε4 carriers and non-APOE ε4 carriers. All participants underwent an extensive neuropsychological evaluation before and after the training, blood tests, and brain imaging. Results: All interventions resulted in multiple statistically significant cognitive benefits after the intervention. Verbal learning (California Verbal Learning Test: immediate recall test score-LLM: P = .04; AC: P P = .03; PTC: P = .02 and P = .006, respectively), and long-term memory (California Verbal Learning Test: delayed recall test score-LLM: P = .02; AC: P = .002; and PTC: P = .02) were improved. There was no statistically significant difference among the intervention effects. APOE ε4 presence moderates intervention effects as the LLM intervention improved only their task-switching processing speed (Trail Making Test, Part B: P = .03) and the PTC intervention improved only the working memory (digit span backward: P = .03). No significant performance alteration was noted for the APOE ε4+ cognitive AC training group. Conclusions: None of the applied interventions could be identified as the optimal one; it is suggested, however, that combined cognitive and physical training and physical training via exergaming may be more effective for the high-risk MCI ΑPOE ε4+ subgroup. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
-KW  - *Cognitive Impairment
-KW  - *Intervention
-KW  - *Verbal Learning
-KW  - *Apolipoprotein E
-KW  - Computer Training
-KW  - Memory Training
-M3  - doi:10.2196/14617
-DO  - 10.2196/14617
-ER  -
-TY  - JOUR
-DESCRIPTORS  - *Cognitive Impairment;  *Computer Assisted Instruction;  *Computer Training;  *Memory Training;  *Short Term Memory; Human Channel Capacity; Neuropsychology; Training; Mild Cognitive Impairment
 PMID  - 31031677
 ID  - 2019-23725-001
 T1  - Adaptive computerized working memory training in patients with mild cognitive impairment. A randomized double-blind active controlled trial.
@@ -866,7 +529,6 @@ M3  - doi:10.3389/fpsyg.2019.00807
 DO  - 10.3389/fpsyg.2019.00807
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Aging;  *Attention;  *Human Computer Interaction;  *Memory Training; Treatment Effectiveness Evaluation
 PMID  - 24260218
 ID  - 2014-01306-001
 T1  - A brain-computer interface based cognitive training system for healthy elderly: A randomized control pilot study for usability and preliminary efficacy.
@@ -903,7 +565,6 @@ M3  - doi:10.1371/journal.pone.0079419
 DO  - 10.1371/journal.pone.0079419
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Aging;  *Cognitive Impairment;  *Cognitive Techniques;  *Computer Assisted Instruction;  *Physical Activity; Program Evaluation; Mild Cognitive Impairment
 PMID  - 24697325
 ID  - 2014-28519-006
 T1  - The effects of a computer-based cognitive and physical training program in a healthy and mildly cognitive impaired aging sample.
@@ -936,7 +597,6 @@ M3  - doi:10.1080/13607863.2014.899972
 DO  - 10.1080/13607863.2014.899972
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Dementia;  *Intervention;  *Virtual Reality;  *Mild Cognitive Impairment; Alzheimer's Disease; Augmented Reality
 PMID  - 31108489
 ID  - 2019-40531-013
 T1  - A mini-review of virtual reality-based interventions to promote well-being for people living with dementia and mild cognitive impairment.
@@ -969,7 +629,6 @@ M3  - doi:10.1159/000500040
 DO  - 10.1159/000500040
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Cognitive Impairment;  *Dementia;  *Physical Activity;  *Risk Factors;  *Mild Cognitive Impairment; Alzheimer's Disease; Intervention; Prevention; Stimulation
 PMID  - 24886353
 ID  - 2014-47959-001
 T1  - A complex multimodal activity intervention to reduce the risk of dementia in mild cognitive impairment–ThinkingFit: Pilot and feasibility study for a randomized controlled trial.
@@ -1000,7 +659,6 @@ M3  - doi:10.1186/1471-244X-14-129
 DO  - 10.1186/1471-244X-14-129
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Activities of Daily Living;  *Assistive Technology;  *Geriatric Patients;  *Virtual Reality; Information and Communication Technology
 PMID  - 30040477
 ID  - 2019-02957-005
 T1  - Cognitive stimulation of elderly individuals with instrumental virtual reality-based activities of daily life: Pre-post treatment study.
@@ -1037,7 +695,6 @@ M3  - doi:10.1089/cyber.2017.0679
 DO  - 10.1089/cyber.2017.0679
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Cognitive Impairment;  *Communities;  *Memory Disorders;  *Quality of Life;  *Mild Cognitive Impairment; Aging; Memory; Self-Efficacy
 PMID  - 25142381
 ID  - 2014-35265-001
 T1  - The impact of subjective memory complaints on quality of life in community‐dwelling older adults.
@@ -1075,7 +732,6 @@ M3  - doi:10.1111/psyg.12056
 DO  - 10.1111/psyg.12056
 ER  -
 TY  - JOUR
-DESCRIPTORS  - *Animal Social Behavior;  *Hippocampus;  *Microglia;  *Neurogenesis;  *Neuroinflammation; Aging; Memory; Mice
 PMID  - 29904345
 ID  - 2018-27639-001
 T1  - A larger social network enhances novel object location memory and reduces hippocampal microgliosis in aged mice.
