@@ -48,17 +48,17 @@ Material publicado nos últimos dez anos.
 ### Resultados por Base
 
 - PsycINFO
- - 25
+  - 25
 - Pubmed
- - 107
+  - 107
 - Embase
- - 47
+  - 47
 - LILACS
- - 0
+  - 0
 - Scopus
- - 137
+  - 137
 - Web of Science
- - 92
+  - 92
 
 ### Total de Resultados
 
