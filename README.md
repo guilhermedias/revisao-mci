@@ -72,7 +72,16 @@ Total de 186 referências.
 
 - Não é possível pesquisar em palavras-chave na Pubmed. Foram usados somente os campos de título e abstract.
 
-## Critérios de Inclusão
+## Notas sobre Filtragem por Título
+
+- Incluídos por concordância entre juízes.
+  - 51.
+- Incluídos por decisão de terceiro juiz.
+  - 9.
+
+## Notas sobre Filtragem por Critérios
+
+### Critérios de Inclusão
 
 - Estudo empírico.
 - Participantes.
