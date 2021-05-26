@@ -39,6 +39,33 @@ Material publicado nos últimos dez anos.
 - Scopus
 - Web of Science
 
+## Notas sobre os Resultados
+
+### Data da Busca
+
+2021-05-25
+
+### Número de resultados
+
+- PsycINFO
+ - 25
+- Pubmed
+ - 107
+- Embase
+ - 47
+- LILACS
+ - 0
+- Scopus
+ - 137
+- Web of Science
+ - 92
+
+Um total de 408 referências encontradas.
+
+### Outras Notas
+
+- Não é possível pesquisar em palavras-chave na Pubmed. Foram usados somente os campos de título e abstract.
+
 ## Critérios de Inclusão
 
 - Estudo empírico.
