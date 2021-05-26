@@ -45,7 +45,7 @@ Material publicado nos últimos dez anos.
 
 2021-05-25
 
-### Número de resultados
+### Resultados por Base
 
 - PsycINFO
  - 25
@@ -60,7 +60,13 @@ Material publicado nos últimos dez anos.
 - Web of Science
  - 92
 
-Um total de 408 referências encontradas.
+### Total de Resultados
+
+Total de 408 referências.
+
+### Resultados sem Duplos
+
+Total de 186 referências.
 
 ### Outras Notas
 
