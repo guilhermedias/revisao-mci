@@ -18,9 +18,9 @@ AND
 
 ### Campos
 
-- Título.
-- Abstract.
-- Keywords.
+- Título
+- Abstract
+- Keywords
 
 ### Documento
 
@@ -70,14 +70,14 @@ Total de 186 referências.
 
 ### Outras Notas
 
-- Não é possível pesquisar em palavras-chave na Pubmed. Foram usados somente os campos de título e abstract.
+Não é possível pesquisar em palavras-chave na Pubmed. Foram usados somente os campos de título e abstract.
 
 ## Notas sobre Filtragem por Título
 
 - Incluídos por concordância entre juízes.
-  - 51.
+  - 51
 - Incluídos por decisão de terceiro juiz.
-  - 9.
+  - 9
 
 ## Notas sobre Filtragem por Critérios
 
