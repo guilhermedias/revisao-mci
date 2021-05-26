@@ -914,6 +914,29 @@ AN  - WOS:000529488300001
 ER  -
 
 TY  - JOUR
+AU  - Blair, M
+AU  - Goveas, D
+AU  - Safi, A
+AU  - Marshall, C
+AU  - Rosehart, H
+AU  - Orenczuk, S
+AU  - Morrow, SA
+TI  - Does cognitive training improve attention/working memory in persons with MS? A pilot study using the Cogmed Working Memory Training program
+T2  - MULTIPLE SCLEROSIS AND RELATED DISORDERS
+AB  - Background: Cognitive deficits, especially in attention, are common in persons with MS (PwMS) and are associated with clinically meaningful outcomes, such as work disability and lower quality of life (QOL). In this study, we aimed to determine whether Cogmed Working Memory Training (CWMT) improves attention/working memory in PwMS displaying impairment in these domains.
+   Methods: This single blind, randomized controlled, pilot study compared the effects of CWMT, a five-week evidenced-based computer-assisted training program that is supported by weekly meetings with a coach, to standard medical care (treatment as usual). We recruited PwMS from one MS center (London (ON) Canada), aged 18-64, with an Expanded Disability Status Scale (EDSS) score of ? 7.0, and a visual acuity (corrected) of at least 20/70. Potential subjects had to demonstrate impaired attention on at least two of three measures (Paced Auditory Serial Addition Test [PASAT], Symbol Digit Modalities Test [SDMT], and/or DKEFS Color-Word Interference Test); these measures also served as the primary study outcomes. Subjects were randomized to either the CWMT or treatment as usual. Secondary cognitive outcomes included other measures of attention, memory, as well as a self-reported cognitive function measure. Self-reported measures of mood (depression and anxiety), pain, and QOL were also included as other secondary outcomes. Subjects received assessments at baseline, post-treatment, and 6-month follow-up, or an equivalent time period for the treatment as usual group. The two groups were compared at baseline on background measures using independent samples t-tests, Chi-Square tests, and MannWhitney U tests. To analyze primary and secondary outcomes, a non-parametric approach was used due the small sample size and that many of our outcomes did not meet assumptions for parametric analyses. Friedman?s test was conducted followed by post hoc pairwise comparisons within each group using Wilcoxon Signed-Rank tests with Bonferroni corrected post hoc contrasts, which allowed us to examine for differences between time points.
+   Results: Of 30 subjects, 15 were assigned to CWMT. Significant training effects were noted in 1 of 3 primary attentional outcomes (DKEFS Color-Word Interference Test), 2 of 3 secondary attentional outcomes (LetterNumber Sequencing, Digit Span), and 1 mood scale (Hospital Anxiety and Depression scale (HADS) - Depression Subscale), ps < .025. No significant changes were observed in the treatment as usual group.
+   Conclusion: This pilot study demonstrates that cognitive training with CWMT has the potential to improve attention/working memory in PwMS, as well as a potential positive effect on mood, in PwMS. Further exploration of this intervention in PwMS with attention/working memory impairment is warranted.
+SN  - 2211-0348
+SN  - 2211-0356
+DA  - APR
+PY  - 2021
+VL  - 49
+DO  - 10.1016/j.msard.2021.102770
+AN  - WOS:000641391200030
+ER  -
+
+TY  - JOUR
 AU  - Polito, L
 AU  - Abbondanza, S
 AU  - Vaccaro, R

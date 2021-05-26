@@ -3,37 +3,6 @@ Database: PsycINFO
 Content: application/x-research-info-systems
 
 TY  - JOUR
-PMID  - 32346804
-ID  - 2020-30050-001
-T1  - Feasibility of using a computer-assisted working memory training program for healthy older women.
-JF  - Cognitive Processing
-A1  - Ghavidel, Fahimeh
-A1  - Fadardi, Javad Salehi
-A1  - Gatto, Nicole M.
-A1  - Sedaghat, Fereshteh
-A1  - Tabibi, Zahra
-VL  - 21
-IS  - 3
-SP  - 383
-EP  - 390
-Y1  - 2020
-CY  - Germany
-AD  - Fadardi, Javad Salehi: Department of Psychology, Faculty of Education and Psychology, Ferdowsi University of Mashhad, Mashhad, Iran, 9177948991, j.s.fadardi@um.ac.ir
-PB  - Springer
-SN  - 1612-4790(Electronic),1612-4782(Print)
-N2  - Interventions for age-associated cognitive impairment are of increasing significance as populations age. Using N-back and memory strategy enhancement, the present study aimed to explore the feasibility of using, and outcomes of a working memory (WM) training program on visuospatial and verbal WM in older female adults. Older women from two comparable local health centers who scored 26 and higher on Mini-Mental State Examination were invited to participate. Women at one center (experimental group) received three sessions on memory enhancement techniques and a computerized training program with N-back. Women at the other center (control group) received three sessions on memory and aging and training on using various features of cellphones. All participants completed the Corsi Block Task and Digit Span Task at pre- and post-training. The experimental group showed significant improvements in their visuospatial and verbal WM compared to the control group. These findings support the brain’s plasticity in the elderly. WM training for improving cognitive performance in older adults has potential and should be further investigated. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
-KW  - *Aging
-KW  - *Computer Applications
-KW  - *Memory Training
-KW  - *Short Term Memory
-KW  - *Brain Training
-KW  - Neural Plasticity
-KW  - Verbal Memory
-KW  - Visuospatial Memory
-M3  - doi:10.1007/s10339-020-00975-7
-DO  - 10.1007/s10339-020-00975-7
-ER  -
-TY  - JOUR
 PMID  - 26162480
 ID  - 2015-43196-003
 T1  - Repeated cognitive stimulation alleviates memory impairments in an Alzheimer’s disease mouse model.
@@ -60,70 +29,6 @@ KW  - *Recognition (Learning)
 KW  - Animal Models
 M3  - doi:10.1016/j.brainresbull.2015.07.001
 DO  - 10.1016/j.brainresbull.2015.07.001
-ER  -
-TY  - JOUR
-PMID  - 33679369
-ID  - 2021-23700-001
-T1  - Dual-task exercise to improve cognition and functional capacity of healthy older adults.
-JF  - Frontiers in Aging Neuroscience
-A1  - Jardim, Naina Yuki Vieira
-A1  - Bento-Torres, Natáli Valim Oliver
-A1  - Costa, Victor Oliveira
-A1  - Carvalho, Josilayne Patricia Ramos
-A1  - Pontes, Helen Tatiane Santos
-A1  - Tomás, Alessandra Mendonça
-A1  - Sosthenes, Marcia Consentino Kronka
-A1  - Erickson, Kirk I.
-A1  - Bento-Torres, João
-A1  - Diniz, Cristovam Wanderley Picanço
-VL  - 13
-Y1  - 2021
-CY  - Switzerland
-AD  - Bento-Torres, Natáli Valim Oliver: natalivalim@ufpa.br
-PB  - Frontiers Media S.A.
-SN  - 1663-4365(Electronic)
-N2  - Background: It has been suggested that physical inactivity and lack of stimulating cognitive activity are the two most significant modifiable risk factors to impair cognitive function. Although many studies that investigated the cognitive effects of physical exercise and cognitive stimuli in dual-task conditions showed improved cognitive performance, others have not confirmed these findings. The main aim of the present work is to analyze the effects of a dual-task multimodal physical exercise training, at moderate intensity, and cognitive stimulation on cognitive and physical function in healthy older adults. Methods: This clinical trial was registered on the Brazilian Registry of Clinical Trials (RBR-9zrx3d). Here we tested the effects of a dual-task multimodal physical exercise training, at moderate intensity, on cognitive and physical function and quality of life in community dwelling older adults. The training protocol included 24 group sessions, 2/week, per 75 min. Cognition was assessed using CANTAB automated neuropsychological tests and Functional Capacity to Exercise tests. Performance was compared from baseline to post intervention and to a non-exercise control group using Mixed Linear Model for repeated measures. Results: Control (CG) and dual-task (DTEx) groups progressed differentially over time on performance of episodic memory, sustained visual attention, functional mobility, cardiorespiratory fitness, lower limbs strength resistance, agility, quality of life and dualtask performance with significant improved DTEx performance. Control group did not show any significant changes on these tests except for showing a reduction in dual-task performance. Conclusion: We suggest that the dual-task combination of multisensory cognitive stimulation and multimodal moderate physical exercise training, twice a week, may be adopted as an effective program to reduce progression of age-related cognitive decline and improve physical fitness and quality of life on healthy older adults. (PsycInfo Database Record (c) 2021 APA, all rights reserved)
-KW  - *Cognitive Impairment
-KW  - *Exercise
-KW  - *Gerontology
-KW  - *Quality of Life
-KW  - *Older Adulthood
-KW  - Neuropsychological Assessment
-KW  - Physical Fitness
-KW  - Physical Therapy
-KW  - Training
-M3  - doi:10.3389/fnagi.2021.589299
-DO  - 10.3389/fnagi.2021.589299
-ER  -
-TY  - JOUR
-PMID  - 21314646
-ID  - 2011-03150-009
-T1  - Improvement in memory with plasticity‐based adaptive cognitive training: Results of the 3‐month follow‐up.
-JF  - Journal of the American Geriatrics Society
-A1  - Zelinski, Elizabeth M.
-A1  - Spina, Laila M.
-A1  - Yaffe, Kristine
-A1  - Ruff, Ronald
-A1  - Kennison, Robert F.
-A1  - Mahncke, Henry W.
-A1  - Smith, Glenn E.
-VL  - 59
-IS  - 2
-SP  - 258
-EP  - 265
-Y1  - 2011
-CY  - United Kingdom
-AD  - Zelinski, Elizabeth M.: Leonard Davis School of Gerontology, University of Southern California, Los Angeles, CA, US, 90089, zelinski@usc.edu
-PB  - Wiley-Blackwell Publishing Ltd.
-SN  - 1532-5415(Electronic),0002-8614(Print)
-N2  - Objectives: To investigate maintenance of training effects of a novel brain plasticity–based computerized cognitive training program in older adults after a 3‐month no‐contact period. Design: Multisite, randomized, controlled, double‐blind trial with two treatment groups. Setting: Communities in northern and southern California and Minnesota. Participants: Four hundred eighty‐seven community‐dwelling adults aged 65 and older without diagnosis of clinically significant cognitive impairment. Intervention: Random assignment into a broadly available brain plasticity–based computerized cognitive training program experimental group or a novelty‐ and intensity‐matched cognitive stimulation active control. Assessments at baseline, after training, and at 3 months. Measurements: The primary outcome was a composite of auditory subtests of the Repeatable Battery for the Assessment of Neuropsychological Status. Secondary measures included trained task performance, standardized neuropsychological assessments of overall memory and attention, and participant‐reported outcomes (PROs). Results: A significant difference in improvement from baseline to 3‐month follow‐up was seen between the experimental training and control groups on the secondary composite of overall memory and attention, (P=.01, d=0.25), the trained processing‐speed measure (P d=0.80), word list total recall (P=.004, d=0.28), letter–number sequencing (P=.003, d=0.29), and the cognitive subscale of PRO (P=.006, d=0.27). Previously significant improvements became nonsignificant at the 3‐month follow‐up for the primary outcome, two secondary measures of attention and memory, and several PROs. Narrative memory continued to show no advantage for the experimental group. Effect sizes from baseline to follow‐up were generally smaller than effect sizes from baseline to posttraining. Conclusion: Training effects were maintained but waned over the 3‐month no‐contact period. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
-KW  - *Cognitive Rehabilitation
-KW  - *Diagnosis
-KW  - *Geriatrics
-KW  - *Memory
-KW  - Neural Plasticity
-M3  - doi:10.1111/j.1532-5415.2010.03277.x
-DO  - 10.1111/j.1532-5415.2010.03277.x
 ER  -
 TY  - JOUR
 ID  - 2017-55816-003
@@ -179,6 +84,332 @@ M3  - doi:10.1080/03601277.2016.1205401
 DO  - 10.1080/03601277.2016.1205401
 ER  -
 TY  - JOUR
+PMID  - 22157145
+ID  - 2012-12061-010
+T1  - Improved working memory following novel combinations of physical and cognitive activity.
+JF  - Neurorehabilitation and Neural Repair
+A1  - Langdon, Kristopher D.
+A1  - Corbett, Dale
+VL  - 26
+IS  - 5
+SP  - 523
+EP  - 532
+Y1  - 2012
+CY  - US
+AD  - Corbett, Dale: Heart and Stroke Foundation, Centre for Stroke Recovery, Department of Cellular and Molecular Medicine, University of Ottawa, Roger Guindon Hall, Room 3510F, 451 Smyth Road, Ottawa, ON, Canada, K1H 8M5, dcorbett@uottawa.ca
+PB  - Sage Publications
+SN  - 1552-6844(Electronic),1545-9683(Print)
+N2  - Background: In humans, retrospective studies suggest that habitual physical activity (PA) or cognitive activity (CA) can help maintain or improve cognitive function. Similar findings have been reported using physical exercise in animal studies; however, the exercise paradigms differ markedly in duration and frequency, making extrapolation difficult. Here, the authors present a novel PA and CA paradigm that combines voluntary wheel running with Hebb-Williams and radial arm maze (RAM) training. Methods: A total of 57 male Sprague-Dawley rats were divided into 4 treatment groups: the PA, CA, and combined PA and CA groups and sedentary controls. PA (voluntary wheel running) and CA (Hebb-Williams mazes) consisted of a moderate 2 h/d, 5 d/wk treatment paradigm. Results: Animals exposed to a combination of PA and CA made significantly fewer working memory errors and exhibited superior choice accuracy when compared with animals exposed to either PA or CA alone in the 8-arm baited configuration of the RAM. Additional analyses revealed that the cognitive improvements were independent of exercise intensity/duration. Assessment of brain-derived neurotrophic factor (BDNF) levels revealed a significant increase in hippocampal BDNF only in the PA-alone group. Conclusion: A novel combination of PA and CA improves learning and memory abilities independent of activity intensity, BDNF, or phosphorylated cyclic AMP response element binding protein levels. This is the first report of significant changes in cognitive ability using a paradigm involving moderate levels of PA plus cognitive stimulation. An adaptation of this paradigm may be particularly beneficial in slowing the development of mild cognitive impairment and subsequent dementia in elderly people. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
+KW  - *Physical Activity
+KW  - *Short Term Memory
+KW  - *Animal Cognition
+KW  - *Brain Derived Neurotrophic Factor
+KW  - Cognitive Rehabilitation
+KW  - Rats
+M3  - doi:10.1177/1545968311425919
+DO  - 10.1177/1545968311425919
+ER  -
+TY  - JOUR
+PMID  - 30040477
+ID  - 2019-02957-005
+T1  - Cognitive stimulation of elderly individuals with instrumental virtual reality-based activities of daily life: Pre-post treatment study.
+JF  - Cyberpsychology, Behavior, and Social Networking
+A1  - Gamito, Pedro
+A1  - Oliveira, Jorge
+A1  - Morais, Diogo
+A1  - Coelho, Cátia
+A1  - Santos, Nuno
+A1  - Alves, Catarina
+A1  - Galamba, Ana
+A1  - Soeiro, Miguel
+A1  - Yerra, Madhurrima
+A1  - French, Hannan
+A1  - Talmers, Lily
+A1  - Gomes, Tiago
+A1  - Brito, Rodrigo
+VL  - 22
+IS  - 1
+SP  - 69
+EP  - 75
+Y1  - 2019
+CY  - Belgium
+AD  - Gamito, Pedro: School of Psychology and Life Sciences, Lusophone University of Humanities and Technologies, Campo Grande, 376, Lisbon, Portugal, 1749-024, pedro.gamito@ulusofona.pt
+PB  - Virtual Reality Medical Institute BVBA
+SN  - 2152-2723(Electronic),2152-2715(Print)
+N2  - As the demographic structure in western societies ages, the prevalence and impact of cognitive decline rises. Thus, new solutions to tackle this problem are required. The use of Information and Communication Technologies (ICT)-based cognitive exercises has emerged in the last few decades, though with inconsistent results. Hence, we conducted a pre-post treatment study to further investigate this approach. We designed a set of virtual reality exercises that mimic activities of daily living by which the patient can train different cognitive domains. Twenty-five participants, ages 65–85, underwent 12 training sessions between the pre-treatment and post-treatment assessments. Significant increases were seen between the two assessments for some of the neuropsychological measures: visual memory, attention, and cognitive flexibility. Results also suggest that participants with lower baseline cognitive performance levels improved most after these sessions. (PsycINFO Database Record (c) 2019 APA, all rights reserved)
+KW  - *Activities of Daily Living
+KW  - *Assistive Technology
+KW  - *Geriatric Patients
+KW  - *Virtual Reality
+KW  - Information and Communication Technology
+M3  - doi:10.1089/cyber.2017.0679
+DO  - 10.1089/cyber.2017.0679
+ER  -
+TY  - JOUR
+PMID  - 24697325
+ID  - 2014-28519-006
+T1  - The effects of a computer-based cognitive and physical training program in a healthy and mildly cognitive impaired aging sample.
+JF  - Aging & Mental Health
+A1  - González-Palau, Fátima
+A1  - Franco, Manuel
+A1  - Bamidis, Panagiotis
+A1  - Losada, Raquel
+A1  - Parra, Esther
+A1  - Papageorgiou, Sokratis G.
+A1  - Vivas, Ana B.
+VL  - 18
+IS  - 7
+SP  - 838
+EP  - 846
+Y1  - 2014
+CY  - United Kingdom
+AD  - González-Palau, Fátima: investigacion3@intras.es
+PB  - Taylor & Francis
+SN  - 1364-6915(Electronic),1360-7863(Print)
+N2  - Objectives: The Long Lasting Memories (LLM) program concerns a newly integrated platform which combines cognitive exercises with physical activity within the context of advanced technologies. The main objective of this study was to present the preliminary results that determine the possible effectiveness of the LLM program in the improvement of cognitive functions and symptoms of depression in healthy elderly and subjects with mild cognitive impairment (MCI). Method: Fifty healthy and MCI subjects participated in the study. All of them received one hour's physical training and 35 minutes’ cognitive training, 3 times a week, during the 12 weeks of the program. Before and after the intervention all participants were assessed using a battery of neuropsychological tests. Results: The results showed a significant improvement after the LLM training in global cognitive function, in verbal memory, in attention, in episodic memory and symptoms of depression. Conclusion: This study indicates that LLM is a promising solution for older adults with and without cognitive impairment, maintaining their wellbeing with few professional and technical requirements. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
+KW  - *Aging
+KW  - *Cognitive Impairment
+KW  - *Cognitive Techniques
+KW  - *Computer Assisted Instruction
+KW  - *Physical Activity
+KW  - Program Evaluation
+KW  - Mild Cognitive Impairment
+M3  - doi:10.1080/13607863.2014.899972
+DO  - 10.1080/13607863.2014.899972
+ER  -
+TY  - JOUR
+PMID  - 21647682
+ID  - 2011-19468-014
+T1  - Alzheimer disease: Are we intervening too late?
+JF  - Journal of Neural Transmission
+A1  - Emery, Virginia Olga B.
+VL  - 118
+IS  - 9
+SP  - 1361
+EP  - 1378
+Y1  - 2011
+CY  - Germany
+AD  - Emery, Virginia Olga B.: Department of Psychiatry, Dartmouth Medical School, HB7750, Lebanon, NH, US, 03756-0001, V.Olga.Emery@Dartmouth.edu
+PB  - Springer
+SN  - 1435-1463(Electronic),0300-9564(Print)
+N2  - The affirmative position is argued in response to the question of whether intervention in the disease course of Alzheimer disease (AD) occurs too late. AD is not a singular, homogeneous disease, but rather a final common pathway or end-point that can be arrived at through multiple routes. As part of the affirmative argument, there is a delineation of two long-term trajectories leading to AD: (1) normal elderly progression to AD, and (2) depressed elderly progression to AD. In documenting normal elderly devolution into AD, two “normal” elderly pre-AD or prodromal stages are discussed: age-associated memory impairment (AAMI) and mild cognitive impairment (MCI). Data are provided evidencing significantly high conversion rates from these pre-AD stages to actual AD. Using the same paradigmatic approach that is used in documenting normal elderly decline into AAMI and MCI with eventual conversion to AD; there is explication of depressed elderly conversion to AD. The long-term, multiphasic disease progression of major depression without dementia to depressive dementia to final conversion to AD is brought into focus as another example of why intervention must occur prior to actual conversion to AD. Depression is defined as a cognitive syndrome and risk factor for AD requiring aggressive targeted intervention. AD does not just come suddenly out of nowhere. First intervention must occur during the pre-AD phases in an attempt to prevent, delay, and interrupt long-term neurodegenerative processes involved in both normal elderly and depressed elderly conversion to AD. A primary strategy proposed is to delay onset of AD. Population statistics indicate that if AD is delayed by a modest 1 year, there would be 9.5 million fewer cases by 2050, resulting in significant reduction in burden of disease. Data show early intervention with cognitive stimulation (mental exercise), physical exercise, aggressive treatment of AD risk factors and excess disability, psychotherapy, and other nonpharmacological interventions in combination with each other and/or with medications can result in delay of onset of AD. First intervention at time of diagnosis of AD is too late, when by definition, final conversion to AD has already occurred. When we have knowledge to successfully intervene earlier, why would we not want to do so. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
+KW  - *Alzheimer's Disease
+KW  - *Cognitive Impairment
+KW  - *Geriatrics
+KW  - *Memory Disorders
+KW  - Risk Factors
+M3  - doi:10.1007/s00702-011-0663-0
+DO  - 10.1007/s00702-011-0663-0
+ER  -
+TY  - JOUR
+ID  - 2018-57333-008
+T1  - Rehabilitación de la memoria para adultos mayores: Preservación de la autonomía de vida. [Memory rehabilitation for older adults: Preserving independent living.]
+JF  - Estudios de Psicología
+A1  - Kaschel, Reiner
+A1  - Kazén, Miguel
+VL  - 39
+IS  - 2-3
+SP  - 378
+EP  - 406
+Y1  - 2018
+CY  - United Kingdom
+AD  - Kazén, Miguel: Faculty of Human Sciences, University of Osnabruck, Seminarstrasse 20, Osnabruck, Germany, 49074, mikazen@uos.de
+PB  - Taylor & Francis
+SN  - 1579-3699(Electronic),0210-9395(Print)
+N2  - Episodic memory problems are the hallmark of cognitive ageing in normal elderly people. Learning of new material is worse in pathological cognitive ageing, such as dementia and its preliminary states (mild cognitive impairment). Because episodic learning is crucial to preserve independent living in the elderly, rehabilitation programmes for everyday memory problems are welcomed. The scope of scientific interest has switched from treatment to prevention. We claim that lifestyle interventions are the most direct way to preserve cognition. We summarize evidence for changes in nutrition and exercise. In addition, psychological interventions for elderly people with normal or pathological cognitive ageing are available. Recent meta-analyses found lacking evidence of transfer to everyday life and long-term effects. We critically assess these meta-analyses. We propose theoretically derived experimental interventions relying on spared learning mechanisms. As an example we report visual-imagery training showing positive effects in a randomized control trial, using individual memory diaries on memory improvement. (PsycINFO Database Record (c) 2019 APA, all rights reserved)
+KW  - *Aging
+KW  - *Cognition
+KW  - *Rehabilitation
+KW  - *Self-Care Skills
+KW  - *Training
+KW  - Memory Training
+M3  - doi:10.1080/02109395.2018.1493844
+DO  - 10.1080/02109395.2018.1493844
+ER  -
+TY  - JOUR
+PMID  - 27025607
+ID  - 2016-16167-001
+T1  - Subjective memory complaints in Italian elderly with mild cognitive impairment: Implication of psychological status.
+JF  - Neurological Sciences
+A1  - Giuli, Cinzia
+A1  - Fabbietti, Paolo
+A1  - Paoloni, Cristina
+A1  - Pensieri, Mirko
+A1  - Lattanzio, Fabrizia
+A1  - Postacchini, Demetrio
+VL  - 37
+IS  - 7
+SP  - 1153
+EP  - 1157
+Y1  - 2016
+CY  - Germany
+AD  - Giuli, Cinzia: Unit of Geriatrics, Italian National Research Center on Aging (INRCA), IRCCS, Contrada Mossa, Fermo, Italy, 63900, c.giuli@inrca.it
+PB  - Springer
+SN  - 1590-3478(Electronic),1590-1874(Print)
+N2  - Subjective cognitive and memory complaints (SMC) are common in later life and are considered an indicator for progression to cognitive decline. The aim of the present study was to identify the relationship among SMC, neuropsychiatric symptoms and psychological aspects in elderly subjects with mild cognitive impairment (MCI) as well as to analyse the effect on SMC of a comprehensive cognitive training. Data from a sample of 94 patients enrolled in ‘My Mind Project’ (Grant No. 154/GR-2009-1584108) were collected. The study evidenced that depression was a significant predictor of SMC and that after the training, the number of subjects with SMC was significantly reduced in the experimental group in comparison to the control one. These results suggest that the participation in cognitive stimulation protocols may improve the perception of SMC in subjects with MCI. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
+KW  - *Aging
+KW  - *Cognitive Impairment
+KW  - *Memory
+KW  - *Psychodynamics
+KW  - *Mild Cognitive Impairment
+KW  - Major Depression
+M3  - doi:10.1007/s10072-016-2553-6
+DO  - 10.1007/s10072-016-2553-6
+ER  -
+TY  - JOUR
+PMID  - 32346804
+ID  - 2020-30050-001
+T1  - Feasibility of using a computer-assisted working memory training program for healthy older women.
+JF  - Cognitive Processing
+A1  - Ghavidel, Fahimeh
+A1  - Fadardi, Javad Salehi
+A1  - Gatto, Nicole M.
+A1  - Sedaghat, Fereshteh
+A1  - Tabibi, Zahra
+VL  - 21
+IS  - 3
+SP  - 383
+EP  - 390
+Y1  - 2020
+CY  - Germany
+AD  - Fadardi, Javad Salehi: Department of Psychology, Faculty of Education and Psychology, Ferdowsi University of Mashhad, Mashhad, Iran, 9177948991, j.s.fadardi@um.ac.ir
+PB  - Springer
+SN  - 1612-4790(Electronic),1612-4782(Print)
+N2  - Interventions for age-associated cognitive impairment are of increasing significance as populations age. Using N-back and memory strategy enhancement, the present study aimed to explore the feasibility of using, and outcomes of a working memory (WM) training program on visuospatial and verbal WM in older female adults. Older women from two comparable local health centers who scored 26 and higher on Mini-Mental State Examination were invited to participate. Women at one center (experimental group) received three sessions on memory enhancement techniques and a computerized training program with N-back. Women at the other center (control group) received three sessions on memory and aging and training on using various features of cellphones. All participants completed the Corsi Block Task and Digit Span Task at pre- and post-training. The experimental group showed significant improvements in their visuospatial and verbal WM compared to the control group. These findings support the brain’s plasticity in the elderly. WM training for improving cognitive performance in older adults has potential and should be further investigated. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
+KW  - *Aging
+KW  - *Computer Applications
+KW  - *Memory Training
+KW  - *Short Term Memory
+KW  - *Brain Training
+KW  - Neural Plasticity
+KW  - Verbal Memory
+KW  - Visuospatial Memory
+M3  - doi:10.1007/s10339-020-00975-7
+DO  - 10.1007/s10339-020-00975-7
+ER  -
+TY  - JOUR
+PMID  - 31108489
+ID  - 2019-40531-013
+T1  - A mini-review of virtual reality-based interventions to promote well-being for people living with dementia and mild cognitive impairment.
+JF  - Gerontology
+A1  - D'Cunha, Nathan M.
+A1  - Nguyen, Dung
+A1  - Naumovski, Nenad
+A1  - McKune, Andrew J.
+A1  - Kellett, Jane
+A1  - Georgousopoulou, Ekavi N.
+A1  - Frost, Jane
+A1  - Isbel, Stephen
+VL  - 65
+IS  - 4
+SP  - 430
+EP  - 440
+Y1  - 2019
+CY  - Switzerland
+AD  - D'Cunha, Nathan M.: Faculty of Health, University of Canberra, University of Canberra Hospital, 20 Guraguma St., Bruce, ACT, Australia, 2617, nathan.dcunha@canberra.edu.au
+PB  - Karger
+SN  - 1423-0003(Electronic),0304-324X(Print)
+N2  - Assistive technology including virtual reality and augmented reality has gained interest as a novel intervention in a range of clinical settings. This technology has the potential to provide mental stimulation, a connection to autobiographical memory through reminiscence, and enhanced quality of life (QoL) to people living with dementia (PLWD) and mild cognitive impairment (MCI). In this mini-review, we examine the available evidence from studies reporting on the potential benefits of virtual and augmented reality to provide enjoyable, leisurely activities that may promote QoL and psychological well-being and facilitate social interaction. In total, 10 studies of varying study designs and durations (5 min to 6 months) using virtual (n = 9) and augmented reality (n = 1) were examined in PLWD (n = 6) and MCI (n = 3), in addition to 1 study that included participants with both conditions. Overall, the virtual experiences were enjoyed by the participants, improved their mood and apathy, and were preferred when compared with nonvirtual experiences. However, small sample sizes and variations in study design limit the generalizability of the results. Nevertheless, the use of virtual and augmented reality technology for PLWD and MCI is a novel and emerging method which may provide cognitive stimulation and improve well-being. Future research should explore the potential application of this technology to promote social interaction in both the community and aged care settings. We suggest future studies in PLWD and MCI assess the effects of more sustained use of virtual and augmented reality technology on psychological outcomes including QoL, apathy, and depressive symptoms, with the incorporation of physiological biomarker outcomes. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
+KW  - *Dementia
+KW  - *Intervention
+KW  - *Virtual Reality
+KW  - *Mild Cognitive Impairment
+KW  - Alzheimer's Disease
+KW  - Augmented Reality
+M3  - doi:10.1159/000500040
+DO  - 10.1159/000500040
+ER  -
+TY  - JOUR
+PMID  - 29904345
+ID  - 2018-27639-001
+T1  - A larger social network enhances novel object location memory and reduces hippocampal microgliosis in aged mice.
+JF  - Frontiers in Aging Neuroscience
+A1  - Smith, Bryon M.
+A1  - Yao, Xinyue
+A1  - Chen, Kelly S.
+A1  - Kirby, Elizabeth D.
+VL  - 10
+Y1  - 2018
+CY  - Switzerland
+AD  - Kirby, Elizabeth D.: kirby.224@osu.edu
+PB  - Frontiers Media S.A.
+SN  - 1663-4365(Electronic)
+N2  - The mammalian hippocampus shows marked decline in function with aging across many species, including humans and laboratory rodent models. This decline frequently manifests in memory impairments that occur even in the absence of dementia pathology. In humans, a number of factors correlate with preserved hippocampal memory in aging, such as exercise, cognitive stimulation and number of social ties. While interventional studies and animal models clearly indicate that exercise and cognitive stimulation lead to hippocampal preservation, there is relatively little research on whether a decline in social ties leads to cognitive decline or vice versa. Even in animal studies of environmental enrichment in aging, the focus typically falls on physical enrichment such as a rotating cast of toys, rather than the role of social interactions. The present studies investigated the hypothesis that a greater number of social ties in aging mice would lead to improved hippocampal function. Aged, female C57/Bl6 mice were housed for 3 months in pairs or large groups (7 mice per cage). Group-housed mice showed greater novel object location memory and stronger preference for a spatial navigation strategy in the Barnes maze, though no difference in escape latency, compared to pair-housed mice. Group-housed mice did not differ from pair-housed mice in basal corticosterone levels or adult hippocampal neurogenesis. Group-housed mice did, however, show reduced numbers of Iba1/CD68 + microglia in the hippocampus. These findings suggest that group housing led to better memory function and reduced markers of neuroinflammation in aged mice. More broadly, they support a causative link between social ties and hippocampal function, suggesting that merely having a larger social network can positively influence the aging brain. Future research should address the molecular mechanisms by which a greater number of social ties alters hippocampal function. (PsycINFO Database Record (c) 2018 APA, all rights reserved)
+KW  - *Animal Social Behavior
+KW  - *Hippocampus
+KW  - *Microglia
+KW  - *Neurogenesis
+KW  - *Neuroinflammation
+KW  - Aging
+KW  - Memory
+KW  - Mice
+M3  - doi:10.3389/fnagi.2018.00142
+DO  - 10.3389/fnagi.2018.00142
+ER  -
+TY  - JOUR
+PMID  - 32280093
+ID  - 2020-46167-017
+T1  - Impact of 3-day combined anodal transcranial direct current stimulation-visuospatial training on object-location memory in healthy older adults and patients with mild cognitive impairment.
+JF  - Journal of Alzheimer's Disease
+A1  - de Sousa, Angelica Vieira Cavalcanti
+A1  - Grittner, Ulrike
+A1  - Rujescu, Dan
+A1  - Külzow, Nadine
+A1  - Flöel, Agnes
+VL  - 75
+IS  - 1
+SP  - 223
+EP  - 244
+Y1  - 2020
+CY  - Netherlands
+AD  - Flöel, Agnes: Department of Neurology, University Medicine of Greifswald, Ferdinand Sauerbruch-Strasse, Greifswald, Germany, 17489, agnes.floeel@med.uni-greifswald.de
+PB  - IOS Press
+SN  - 1875-8908(Electronic),1387-2877(Print)
+N2  - Background: Associative object-location memory (OLM) is known to decline even in normal aging, and this process is accelerated in patients with mild cognitive impairment (MCI). Given the lack of curative treatment for Alzheimer's disease, activating cognitive resources during its preclinical phase might prevent progression to dementia. Objective: To evaluate the effects of anodal transcranial direct current stimulation (atDCS) combined with an associative episodic memory training on OLM in MCI patients and in healthy elderly (HE). Methods: In a single-blind cross-over design, 16 MCI patients and 32 HE underwent a 3-day visuospatial OLM training paired with either 20 min or 30 s (sham) atDCS (1 mA, right temporoparietal cortex). Effects on immediate (training success) and long-term memory (1-month) were investigated by conducting Mixed Model analyses. In addition, the impact of combined intervention on within-session (online) and on between-session (offline) performance were explored. Results: OLM training+atDCS enhanced training success only in MCI patients, but not HE (difference n.s.). Relative performance gain was similar in MCI patients compared to HE under atDCS. No beneficial effect was found after 1-month. Exploratory analyses suggested a positive impact on online, but a negative effect on offline performance in MCI patients. In both groups, exploratory post-hoc analyses indicated an association between initially low-performers and greater benefit from atDCS. Conclusion: Cognitive training in MCI may be enhanced by atDCS, but further delineation of the impact of current brain state, as well as temporal characteristics of multi-session atDCS-training application, may be needed to induce longer-lasting effects. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
+KW  - *Dementia
+KW  - *Memory
+KW  - *Transcranial Direct Current Stimulation
+KW  - *Mild Cognitive Impairment
+KW  - Episodic Memory
+KW  - Patients
+M3  - doi:10.3233/JAD-191234
+DO  - 10.3233/JAD-191234
+ER  -
+TY  - JOUR
+PMID  - 33679369
+ID  - 2021-23700-001
+T1  - Dual-task exercise to improve cognition and functional capacity of healthy older adults.
+JF  - Frontiers in Aging Neuroscience
+A1  - Jardim, Naina Yuki Vieira
+A1  - Bento-Torres, Natáli Valim Oliver
+A1  - Costa, Victor Oliveira
+A1  - Carvalho, Josilayne Patricia Ramos
+A1  - Pontes, Helen Tatiane Santos
+A1  - Tomás, Alessandra Mendonça
+A1  - Sosthenes, Marcia Consentino Kronka
+A1  - Erickson, Kirk I.
+A1  - Bento-Torres, João
+A1  - Diniz, Cristovam Wanderley Picanço
+VL  - 13
+Y1  - 2021
+CY  - Switzerland
+AD  - Bento-Torres, Natáli Valim Oliver: natalivalim@ufpa.br
+PB  - Frontiers Media S.A.
+SN  - 1663-4365(Electronic)
+N2  - Background: It has been suggested that physical inactivity and lack of stimulating cognitive activity are the two most significant modifiable risk factors to impair cognitive function. Although many studies that investigated the cognitive effects of physical exercise and cognitive stimuli in dual-task conditions showed improved cognitive performance, others have not confirmed these findings. The main aim of the present work is to analyze the effects of a dual-task multimodal physical exercise training, at moderate intensity, and cognitive stimulation on cognitive and physical function in healthy older adults. Methods: This clinical trial was registered on the Brazilian Registry of Clinical Trials (RBR-9zrx3d). Here we tested the effects of a dual-task multimodal physical exercise training, at moderate intensity, on cognitive and physical function and quality of life in community dwelling older adults. The training protocol included 24 group sessions, 2/week, per 75 min. Cognition was assessed using CANTAB automated neuropsychological tests and Functional Capacity to Exercise tests. Performance was compared from baseline to post intervention and to a non-exercise control group using Mixed Linear Model for repeated measures. Results: Control (CG) and dual-task (DTEx) groups progressed differentially over time on performance of episodic memory, sustained visual attention, functional mobility, cardiorespiratory fitness, lower limbs strength resistance, agility, quality of life and dualtask performance with significant improved DTEx performance. Control group did not show any significant changes on these tests except for showing a reduction in dual-task performance. Conclusion: We suggest that the dual-task combination of multisensory cognitive stimulation and multimodal moderate physical exercise training, twice a week, may be adopted as an effective program to reduce progression of age-related cognitive decline and improve physical fitness and quality of life on healthy older adults. (PsycInfo Database Record (c) 2021 APA, all rights reserved)
+KW  - *Cognitive Impairment
+KW  - *Exercise
+KW  - *Gerontology
+KW  - *Quality of Life
+KW  - *Older Adulthood
+KW  - Neuropsychological Assessment
+KW  - Physical Fitness
+KW  - Physical Therapy
+KW  - Training
+M3  - doi:10.3389/fnagi.2021.589299
+DO  - 10.3389/fnagi.2021.589299
+ER  -
+TY  - JOUR
 PMID  - 29480182
 ID  - 2018-39801-026
 T1  - Simultaneous aerobic exercise and memory training program in older adults with subjective memory impairments.
@@ -214,54 +445,40 @@ M3  - doi:10.3233/JAD-170846
 DO  - 10.3233/JAD-170846
 ER  -
 TY  - JOUR
-PMID  - 22157145
-ID  - 2012-12061-010
-T1  - Improved working memory following novel combinations of physical and cognitive activity.
-JF  - Neurorehabilitation and Neural Repair
-A1  - Langdon, Kristopher D.
-A1  - Corbett, Dale
-VL  - 26
-IS  - 5
-SP  - 523
-EP  - 532
-Y1  - 2012
+PMID  - 24260218
+ID  - 2014-01306-001
+T1  - A brain-computer interface based cognitive training system for healthy elderly: A randomized control pilot study for usability and preliminary efficacy.
+JF  - PLoS ONE
+A1  - Lee, Tih-Shih
+A1  - Goh, Siau Juinn Alexa
+A1  - Quek, Shin Yi
+A1  - Phillips, Rachel
+A1  - Guan, Cuntai
+A1  - Cheung, Yin Bun
+A1  - Feng, Lei
+A1  - Teng, Stephanie Sze Wei
+A1  - Wang, Chuan Chu
+A1  - Chin, Zheng Yang
+A1  - Zhang, Haihong
+A1  - Ng, Tze Pin
+A1  - Lee, Jimmy
+A1  - Keefe, Richard
+A1  - Krishnan, K. Ranga Rama
+VL  - 8
+IS  - 11
+Y1  - 2013
 CY  - US
-AD  - Corbett, Dale: Heart and Stroke Foundation, Centre for Stroke Recovery, Department of Cellular and Molecular Medicine, University of Ottawa, Roger Guindon Hall, Room 3510F, 451 Smyth Road, Ottawa, ON, Canada, K1H 8M5, dcorbett@uottawa.ca
-PB  - Sage Publications
-SN  - 1552-6844(Electronic),1545-9683(Print)
-N2  - Background: In humans, retrospective studies suggest that habitual physical activity (PA) or cognitive activity (CA) can help maintain or improve cognitive function. Similar findings have been reported using physical exercise in animal studies; however, the exercise paradigms differ markedly in duration and frequency, making extrapolation difficult. Here, the authors present a novel PA and CA paradigm that combines voluntary wheel running with Hebb-Williams and radial arm maze (RAM) training. Methods: A total of 57 male Sprague-Dawley rats were divided into 4 treatment groups: the PA, CA, and combined PA and CA groups and sedentary controls. PA (voluntary wheel running) and CA (Hebb-Williams mazes) consisted of a moderate 2 h/d, 5 d/wk treatment paradigm. Results: Animals exposed to a combination of PA and CA made significantly fewer working memory errors and exhibited superior choice accuracy when compared with animals exposed to either PA or CA alone in the 8-arm baited configuration of the RAM. Additional analyses revealed that the cognitive improvements were independent of exercise intensity/duration. Assessment of brain-derived neurotrophic factor (BDNF) levels revealed a significant increase in hippocampal BDNF only in the PA-alone group. Conclusion: A novel combination of PA and CA improves learning and memory abilities independent of activity intensity, BDNF, or phosphorylated cyclic AMP response element binding protein levels. This is the first report of significant changes in cognitive ability using a paradigm involving moderate levels of PA plus cognitive stimulation. An adaptation of this paradigm may be particularly beneficial in slowing the development of mild cognitive impairment and subsequent dementia in elderly people. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
-KW  - *Physical Activity
-KW  - *Short Term Memory
-KW  - *Animal Cognition
-KW  - *Brain Derived Neurotrophic Factor
-KW  - Cognitive Rehabilitation
-KW  - Rats
-M3  - doi:10.1177/1545968311425919
-DO  - 10.1177/1545968311425919
-ER  -
-TY  - JOUR
-PMID  - 21647682
-ID  - 2011-19468-014
-T1  - Alzheimer disease: Are we intervening too late?
-JF  - Journal of Neural Transmission
-A1  - Emery, Virginia Olga B.
-VL  - 118
-IS  - 9
-SP  - 1361
-EP  - 1378
-Y1  - 2011
-CY  - Germany
-AD  - Emery, Virginia Olga B.: Department of Psychiatry, Dartmouth Medical School, HB7750, Lebanon, NH, US, 03756-0001, V.Olga.Emery@Dartmouth.edu
-PB  - Springer
-SN  - 1435-1463(Electronic),0300-9564(Print)
-N2  - The affirmative position is argued in response to the question of whether intervention in the disease course of Alzheimer disease (AD) occurs too late. AD is not a singular, homogeneous disease, but rather a final common pathway or end-point that can be arrived at through multiple routes. As part of the affirmative argument, there is a delineation of two long-term trajectories leading to AD: (1) normal elderly progression to AD, and (2) depressed elderly progression to AD. In documenting normal elderly devolution into AD, two “normal” elderly pre-AD or prodromal stages are discussed: age-associated memory impairment (AAMI) and mild cognitive impairment (MCI). Data are provided evidencing significantly high conversion rates from these pre-AD stages to actual AD. Using the same paradigmatic approach that is used in documenting normal elderly decline into AAMI and MCI with eventual conversion to AD; there is explication of depressed elderly conversion to AD. The long-term, multiphasic disease progression of major depression without dementia to depressive dementia to final conversion to AD is brought into focus as another example of why intervention must occur prior to actual conversion to AD. Depression is defined as a cognitive syndrome and risk factor for AD requiring aggressive targeted intervention. AD does not just come suddenly out of nowhere. First intervention must occur during the pre-AD phases in an attempt to prevent, delay, and interrupt long-term neurodegenerative processes involved in both normal elderly and depressed elderly conversion to AD. A primary strategy proposed is to delay onset of AD. Population statistics indicate that if AD is delayed by a modest 1 year, there would be 9.5 million fewer cases by 2050, resulting in significant reduction in burden of disease. Data show early intervention with cognitive stimulation (mental exercise), physical exercise, aggressive treatment of AD risk factors and excess disability, psychotherapy, and other nonpharmacological interventions in combination with each other and/or with medications can result in delay of onset of AD. First intervention at time of diagnosis of AD is too late, when by definition, final conversion to AD has already occurred. When we have knowledge to successfully intervene earlier, why would we not want to do so. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
-KW  - *Alzheimer's Disease
-KW  - *Cognitive Impairment
-KW  - *Geriatrics
-KW  - *Memory Disorders
-KW  - Risk Factors
-M3  - doi:10.1007/s00702-011-0663-0
-DO  - 10.1007/s00702-011-0663-0
+AD  - Lee, Tih-Shih: tihshih.lee@duke-nus.edu.sg
+PB  - Public Library of Science
+SN  - 1932-6203(Electronic)
+N2  - Cognitive decline in aging is a pressing issue associated with significant healthcare costs and deterioration in quality of life. Previously, we reported the successful use of a novel brain-computer interface (BCI) training system in improving symptoms of attention deficit hyperactivity disorder. Here, we examine the feasibility of the BCI system with a new game that incorporates memory training in improving memory and attention in a pilot sample of healthy elderly. This study investigates the safety, usability and acceptability of our BCI system to elderly, and obtains an efficacy estimate to warrant a phase III trial. Thirty-one healthy elderly were randomized into intervention (n = 15) and waitlist control arms (n = 16). Intervention consisted of an 8-week training comprising 24 half-hour sessions. A usability and acceptability questionnaire was administered at the end of training. Safety was investigated by querying users about adverse events after every session. Efficacy of the system was measured by the change of total score from the Repeatable Battery for the Assessment of Neuropsychological Status (RBANS) before and after training. Feedback on the usability and acceptability questionnaire was positive. No adverse events were reported for all participants across all sessions. Though the median difference in the RBANS change scores between arms was not statistically significant, an effect size of 0.6SD was obtained, which reflects potential clinical utility according to Simon’s randomized phase II trial design. Pooled data from both arms also showed that the median change in total scores pre and post-training was statistically significant (Mdn = 4.0; p  0.001). Specifically, there were significant improvements in immediate memory (p = 0.038), visuospatial/constructional (p = 0.014), attention (p = 0.039), and delayed memory (p,0.001) scores. Our BCI-based system shows promise in improving memory and attention in healthy elderly, and appears to be safe, user-friendly and acceptable to senior users. Given the efficacy signal, a phase III trial is warranted. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
+KW  - *Aging
+KW  - *Attention
+KW  - *Human Computer Interaction
+KW  - *Memory Training
+KW  - Treatment Effectiveness Evaluation
+M3  - doi:10.1371/journal.pone.0079419
+DO  - 10.1371/journal.pone.0079419
 ER  -
 TY  - JOUR
 ID  - 2019-14538-013
@@ -408,88 +625,64 @@ M3  - doi:10.3389/fnagi.2020.575804
 DO  - 10.3389/fnagi.2020.575804
 ER  -
 TY  - JOUR
-ID  - 2018-57333-008
-T1  - Rehabilitación de la memoria para adultos mayores: Preservación de la autonomía de vida. [Memory rehabilitation for older adults: Preserving independent living.]
-JF  - Estudios de Psicología
-A1  - Kaschel, Reiner
-A1  - Kazén, Miguel
-VL  - 39
-IS  - 2-3
-SP  - 378
-EP  - 406
-Y1  - 2018
+PMID  - 21314646
+ID  - 2011-03150-009
+T1  - Improvement in memory with plasticity‐based adaptive cognitive training: Results of the 3‐month follow‐up.
+JF  - Journal of the American Geriatrics Society
+A1  - Zelinski, Elizabeth M.
+A1  - Spina, Laila M.
+A1  - Yaffe, Kristine
+A1  - Ruff, Ronald
+A1  - Kennison, Robert F.
+A1  - Mahncke, Henry W.
+A1  - Smith, Glenn E.
+VL  - 59
+IS  - 2
+SP  - 258
+EP  - 265
+Y1  - 2011
 CY  - United Kingdom
-AD  - Kazén, Miguel: Faculty of Human Sciences, University of Osnabruck, Seminarstrasse 20, Osnabruck, Germany, 49074, mikazen@uos.de
-PB  - Taylor & Francis
-SN  - 1579-3699(Electronic),0210-9395(Print)
-N2  - Episodic memory problems are the hallmark of cognitive ageing in normal elderly people. Learning of new material is worse in pathological cognitive ageing, such as dementia and its preliminary states (mild cognitive impairment). Because episodic learning is crucial to preserve independent living in the elderly, rehabilitation programmes for everyday memory problems are welcomed. The scope of scientific interest has switched from treatment to prevention. We claim that lifestyle interventions are the most direct way to preserve cognition. We summarize evidence for changes in nutrition and exercise. In addition, psychological interventions for elderly people with normal or pathological cognitive ageing are available. Recent meta-analyses found lacking evidence of transfer to everyday life and long-term effects. We critically assess these meta-analyses. We propose theoretically derived experimental interventions relying on spared learning mechanisms. As an example we report visual-imagery training showing positive effects in a randomized control trial, using individual memory diaries on memory improvement. (PsycINFO Database Record (c) 2019 APA, all rights reserved)
-KW  - *Aging
-KW  - *Cognition
-KW  - *Rehabilitation
-KW  - *Self-Care Skills
-KW  - *Training
-KW  - Memory Training
-M3  - doi:10.1080/02109395.2018.1493844
-DO  - 10.1080/02109395.2018.1493844
+AD  - Zelinski, Elizabeth M.: Leonard Davis School of Gerontology, University of Southern California, Los Angeles, CA, US, 90089, zelinski@usc.edu
+PB  - Wiley-Blackwell Publishing Ltd.
+SN  - 1532-5415(Electronic),0002-8614(Print)
+N2  - Objectives: To investigate maintenance of training effects of a novel brain plasticity–based computerized cognitive training program in older adults after a 3‐month no‐contact period. Design: Multisite, randomized, controlled, double‐blind trial with two treatment groups. Setting: Communities in northern and southern California and Minnesota. Participants: Four hundred eighty‐seven community‐dwelling adults aged 65 and older without diagnosis of clinically significant cognitive impairment. Intervention: Random assignment into a broadly available brain plasticity–based computerized cognitive training program experimental group or a novelty‐ and intensity‐matched cognitive stimulation active control. Assessments at baseline, after training, and at 3 months. Measurements: The primary outcome was a composite of auditory subtests of the Repeatable Battery for the Assessment of Neuropsychological Status. Secondary measures included trained task performance, standardized neuropsychological assessments of overall memory and attention, and participant‐reported outcomes (PROs). Results: A significant difference in improvement from baseline to 3‐month follow‐up was seen between the experimental training and control groups on the secondary composite of overall memory and attention, (P=.01, d=0.25), the trained processing‐speed measure (P d=0.80), word list total recall (P=.004, d=0.28), letter–number sequencing (P=.003, d=0.29), and the cognitive subscale of PRO (P=.006, d=0.27). Previously significant improvements became nonsignificant at the 3‐month follow‐up for the primary outcome, two secondary measures of attention and memory, and several PROs. Narrative memory continued to show no advantage for the experimental group. Effect sizes from baseline to follow‐up were generally smaller than effect sizes from baseline to posttraining. Conclusion: Training effects were maintained but waned over the 3‐month no‐contact period. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
+KW  - *Cognitive Rehabilitation
+KW  - *Diagnosis
+KW  - *Geriatrics
+KW  - *Memory
+KW  - Neural Plasticity
+M3  - doi:10.1111/j.1532-5415.2010.03277.x
+DO  - 10.1111/j.1532-5415.2010.03277.x
 ER  -
 TY  - JOUR
-PMID  - 27025607
-ID  - 2016-16167-001
-T1  - Subjective memory complaints in Italian elderly with mild cognitive impairment: Implication of psychological status.
-JF  - Neurological Sciences
-A1  - Giuli, Cinzia
-A1  - Fabbietti, Paolo
-A1  - Paoloni, Cristina
-A1  - Pensieri, Mirko
-A1  - Lattanzio, Fabrizia
-A1  - Postacchini, Demetrio
-VL  - 37
-IS  - 7
-SP  - 1153
-EP  - 1157
-Y1  - 2016
-CY  - Germany
-AD  - Giuli, Cinzia: Unit of Geriatrics, Italian National Research Center on Aging (INRCA), IRCCS, Contrada Mossa, Fermo, Italy, 63900, c.giuli@inrca.it
-PB  - Springer
-SN  - 1590-3478(Electronic),1590-1874(Print)
-N2  - Subjective cognitive and memory complaints (SMC) are common in later life and are considered an indicator for progression to cognitive decline. The aim of the present study was to identify the relationship among SMC, neuropsychiatric symptoms and psychological aspects in elderly subjects with mild cognitive impairment (MCI) as well as to analyse the effect on SMC of a comprehensive cognitive training. Data from a sample of 94 patients enrolled in ‘My Mind Project’ (Grant No. 154/GR-2009-1584108) were collected. The study evidenced that depression was a significant predictor of SMC and that after the training, the number of subjects with SMC was significantly reduced in the experimental group in comparison to the control one. These results suggest that the participation in cognitive stimulation protocols may improve the perception of SMC in subjects with MCI. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
-KW  - *Aging
+PMID  - 24886353
+ID  - 2014-47959-001
+T1  - A complex multimodal activity intervention to reduce the risk of dementia in mild cognitive impairment–ThinkingFit: Pilot and feasibility study for a randomized controlled trial.
+JF  - BMC Psychiatry
+A1  - Dannhauser, Thomas M.
+A1  - Cleverley, Martin
+A1  - Whitfield, Tim J.
+A1  - Fletcher, Ben (C).
+A1  - Stevens, Tim
+A1  - Walker, Zuzana
+VL  - 14
+Y1  - 2014
+CY  - United Kingdom
+AD  - Dannhauser, Thomas M.: University College London, London, United Kingdom, t.dannhauser@ucl.ac.uk
+PB  - BioMed Central Limited
+SN  - 1471-244X(Electronic)
+N2  - Background: Dementia affects 35 million people worldwide and is currently incurable. Many cases may be preventable because regular participation in physical, mental and social leisure activities during middle age is associated with up to 47% dementia risk reduction. However, the majority of middle-aged adults are not active enough. MCI is therefore a clear target for activity interventions aimed at reducing dementia risk. An active lifestyle during middle age reduces dementia risk but it remains to be determined if increased activity reduces dementia risk when MCI is already evident. Before this can be investigated conclusively, complex multimodal activity programmes are required that (1) combine multiple health promoting activities, (2) engage people with MCI, and (3) result in sufficient adherence rates. Methods: We designed the ThinkingFit programme to engage people with MCI in a complex intervention comprised of three activity components: physical activity, group-based cognitive stimulation (GCST) and individual cognitive stimulation (ICST). Engagement and adherence was promoted by applying specific psychological techniques to enhance behavioural flexibility in an early pre-phase and during the course of the intervention. To pilot the intervention, participants served as their own controls during a 6- to 12-week run-in period, which was followed by 12 weeks of activity intervention. Results: Out of 212 MCI patients screened, 163 were eligible, 70 consented and 67 completed the intervention (mean age 74 years). Activity adherence rates were high: physical activity = 71%; GCST = 83%; ICST = 67%. Significant treatment effects (p < .05) were evident on physical health outcomes (decreased BMI and systolic blood pressure, [pre/post values of 26.3/25.9 kg/m² and 145/136 mmHg respectively]), fitness (decreased resting and recovery heart rate [68/65 bpm and 75/69 bpm]), and cognition (improved working memory [5.3/6.3 items]). Conclusions: We found satisfactory recruitment, retention and engagement rates, coupled with significant treatment effects in elderly MCI patients. It appears feasible to conduct randomized controlled trials of the dementia prevention potential of complex multimodal activity programmes like ThinkingFit. Trial registration: ClinicalTrials.gov registration nr: NCT01603862; date: 17/5/2012. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
 KW  - *Cognitive Impairment
-KW  - *Memory
-KW  - *Psychodynamics
-KW  - *Mild Cognitive Impairment
-KW  - Major Depression
-M3  - doi:10.1007/s10072-016-2553-6
-DO  - 10.1007/s10072-016-2553-6
-ER  -
-TY  - JOUR
-PMID  - 32280093
-ID  - 2020-46167-017
-T1  - Impact of 3-day combined anodal transcranial direct current stimulation-visuospatial training on object-location memory in healthy older adults and patients with mild cognitive impairment.
-JF  - Journal of Alzheimer's Disease
-A1  - de Sousa, Angelica Vieira Cavalcanti
-A1  - Grittner, Ulrike
-A1  - Rujescu, Dan
-A1  - Külzow, Nadine
-A1  - Flöel, Agnes
-VL  - 75
-IS  - 1
-SP  - 223
-EP  - 244
-Y1  - 2020
-CY  - Netherlands
-AD  - Flöel, Agnes: Department of Neurology, University Medicine of Greifswald, Ferdinand Sauerbruch-Strasse, Greifswald, Germany, 17489, agnes.floeel@med.uni-greifswald.de
-PB  - IOS Press
-SN  - 1875-8908(Electronic),1387-2877(Print)
-N2  - Background: Associative object-location memory (OLM) is known to decline even in normal aging, and this process is accelerated in patients with mild cognitive impairment (MCI). Given the lack of curative treatment for Alzheimer's disease, activating cognitive resources during its preclinical phase might prevent progression to dementia. Objective: To evaluate the effects of anodal transcranial direct current stimulation (atDCS) combined with an associative episodic memory training on OLM in MCI patients and in healthy elderly (HE). Methods: In a single-blind cross-over design, 16 MCI patients and 32 HE underwent a 3-day visuospatial OLM training paired with either 20 min or 30 s (sham) atDCS (1 mA, right temporoparietal cortex). Effects on immediate (training success) and long-term memory (1-month) were investigated by conducting Mixed Model analyses. In addition, the impact of combined intervention on within-session (online) and on between-session (offline) performance were explored. Results: OLM training+atDCS enhanced training success only in MCI patients, but not HE (difference n.s.). Relative performance gain was similar in MCI patients compared to HE under atDCS. No beneficial effect was found after 1-month. Exploratory analyses suggested a positive impact on online, but a negative effect on offline performance in MCI patients. In both groups, exploratory post-hoc analyses indicated an association between initially low-performers and greater benefit from atDCS. Conclusion: Cognitive training in MCI may be enhanced by atDCS, but further delineation of the impact of current brain state, as well as temporal characteristics of multi-session atDCS-training application, may be needed to induce longer-lasting effects. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
 KW  - *Dementia
-KW  - *Memory
-KW  - *Transcranial Direct Current Stimulation
+KW  - *Physical Activity
+KW  - *Risk Factors
 KW  - *Mild Cognitive Impairment
-KW  - Episodic Memory
-KW  - Patients
-M3  - doi:10.3233/JAD-191234
-DO  - 10.3233/JAD-191234
+KW  - Alzheimer's Disease
+KW  - Intervention
+KW  - Prevention
+KW  - Stimulation
+M3  - doi:10.1186/1471-244X-14-129
+DO  - 10.1186/1471-244X-14-129
 ER  -
 TY  - JOUR
 PMID  - 31031677
@@ -529,172 +722,6 @@ M3  - doi:10.3389/fpsyg.2019.00807
 DO  - 10.3389/fpsyg.2019.00807
 ER  -
 TY  - JOUR
-PMID  - 24260218
-ID  - 2014-01306-001
-T1  - A brain-computer interface based cognitive training system for healthy elderly: A randomized control pilot study for usability and preliminary efficacy.
-JF  - PLoS ONE
-A1  - Lee, Tih-Shih
-A1  - Goh, Siau Juinn Alexa
-A1  - Quek, Shin Yi
-A1  - Phillips, Rachel
-A1  - Guan, Cuntai
-A1  - Cheung, Yin Bun
-A1  - Feng, Lei
-A1  - Teng, Stephanie Sze Wei
-A1  - Wang, Chuan Chu
-A1  - Chin, Zheng Yang
-A1  - Zhang, Haihong
-A1  - Ng, Tze Pin
-A1  - Lee, Jimmy
-A1  - Keefe, Richard
-A1  - Krishnan, K. Ranga Rama
-VL  - 8
-IS  - 11
-Y1  - 2013
-CY  - US
-AD  - Lee, Tih-Shih: tihshih.lee@duke-nus.edu.sg
-PB  - Public Library of Science
-SN  - 1932-6203(Electronic)
-N2  - Cognitive decline in aging is a pressing issue associated with significant healthcare costs and deterioration in quality of life. Previously, we reported the successful use of a novel brain-computer interface (BCI) training system in improving symptoms of attention deficit hyperactivity disorder. Here, we examine the feasibility of the BCI system with a new game that incorporates memory training in improving memory and attention in a pilot sample of healthy elderly. This study investigates the safety, usability and acceptability of our BCI system to elderly, and obtains an efficacy estimate to warrant a phase III trial. Thirty-one healthy elderly were randomized into intervention (n = 15) and waitlist control arms (n = 16). Intervention consisted of an 8-week training comprising 24 half-hour sessions. A usability and acceptability questionnaire was administered at the end of training. Safety was investigated by querying users about adverse events after every session. Efficacy of the system was measured by the change of total score from the Repeatable Battery for the Assessment of Neuropsychological Status (RBANS) before and after training. Feedback on the usability and acceptability questionnaire was positive. No adverse events were reported for all participants across all sessions. Though the median difference in the RBANS change scores between arms was not statistically significant, an effect size of 0.6SD was obtained, which reflects potential clinical utility according to Simon’s randomized phase II trial design. Pooled data from both arms also showed that the median change in total scores pre and post-training was statistically significant (Mdn = 4.0; p  0.001). Specifically, there were significant improvements in immediate memory (p = 0.038), visuospatial/constructional (p = 0.014), attention (p = 0.039), and delayed memory (p,0.001) scores. Our BCI-based system shows promise in improving memory and attention in healthy elderly, and appears to be safe, user-friendly and acceptable to senior users. Given the efficacy signal, a phase III trial is warranted. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
-KW  - *Aging
-KW  - *Attention
-KW  - *Human Computer Interaction
-KW  - *Memory Training
-KW  - Treatment Effectiveness Evaluation
-M3  - doi:10.1371/journal.pone.0079419
-DO  - 10.1371/journal.pone.0079419
-ER  -
-TY  - JOUR
-PMID  - 24697325
-ID  - 2014-28519-006
-T1  - The effects of a computer-based cognitive and physical training program in a healthy and mildly cognitive impaired aging sample.
-JF  - Aging & Mental Health
-A1  - González-Palau, Fátima
-A1  - Franco, Manuel
-A1  - Bamidis, Panagiotis
-A1  - Losada, Raquel
-A1  - Parra, Esther
-A1  - Papageorgiou, Sokratis G.
-A1  - Vivas, Ana B.
-VL  - 18
-IS  - 7
-SP  - 838
-EP  - 846
-Y1  - 2014
-CY  - United Kingdom
-AD  - González-Palau, Fátima: investigacion3@intras.es
-PB  - Taylor & Francis
-SN  - 1364-6915(Electronic),1360-7863(Print)
-N2  - Objectives: The Long Lasting Memories (LLM) program concerns a newly integrated platform which combines cognitive exercises with physical activity within the context of advanced technologies. The main objective of this study was to present the preliminary results that determine the possible effectiveness of the LLM program in the improvement of cognitive functions and symptoms of depression in healthy elderly and subjects with mild cognitive impairment (MCI). Method: Fifty healthy and MCI subjects participated in the study. All of them received one hour's physical training and 35 minutes’ cognitive training, 3 times a week, during the 12 weeks of the program. Before and after the intervention all participants were assessed using a battery of neuropsychological tests. Results: The results showed a significant improvement after the LLM training in global cognitive function, in verbal memory, in attention, in episodic memory and symptoms of depression. Conclusion: This study indicates that LLM is a promising solution for older adults with and without cognitive impairment, maintaining their wellbeing with few professional and technical requirements. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
-KW  - *Aging
-KW  - *Cognitive Impairment
-KW  - *Cognitive Techniques
-KW  - *Computer Assisted Instruction
-KW  - *Physical Activity
-KW  - Program Evaluation
-KW  - Mild Cognitive Impairment
-M3  - doi:10.1080/13607863.2014.899972
-DO  - 10.1080/13607863.2014.899972
-ER  -
-TY  - JOUR
-PMID  - 31108489
-ID  - 2019-40531-013
-T1  - A mini-review of virtual reality-based interventions to promote well-being for people living with dementia and mild cognitive impairment.
-JF  - Gerontology
-A1  - D'Cunha, Nathan M.
-A1  - Nguyen, Dung
-A1  - Naumovski, Nenad
-A1  - McKune, Andrew J.
-A1  - Kellett, Jane
-A1  - Georgousopoulou, Ekavi N.
-A1  - Frost, Jane
-A1  - Isbel, Stephen
-VL  - 65
-IS  - 4
-SP  - 430
-EP  - 440
-Y1  - 2019
-CY  - Switzerland
-AD  - D'Cunha, Nathan M.: Faculty of Health, University of Canberra, University of Canberra Hospital, 20 Guraguma St., Bruce, ACT, Australia, 2617, nathan.dcunha@canberra.edu.au
-PB  - Karger
-SN  - 1423-0003(Electronic),0304-324X(Print)
-N2  - Assistive technology including virtual reality and augmented reality has gained interest as a novel intervention in a range of clinical settings. This technology has the potential to provide mental stimulation, a connection to autobiographical memory through reminiscence, and enhanced quality of life (QoL) to people living with dementia (PLWD) and mild cognitive impairment (MCI). In this mini-review, we examine the available evidence from studies reporting on the potential benefits of virtual and augmented reality to provide enjoyable, leisurely activities that may promote QoL and psychological well-being and facilitate social interaction. In total, 10 studies of varying study designs and durations (5 min to 6 months) using virtual (n = 9) and augmented reality (n = 1) were examined in PLWD (n = 6) and MCI (n = 3), in addition to 1 study that included participants with both conditions. Overall, the virtual experiences were enjoyed by the participants, improved their mood and apathy, and were preferred when compared with nonvirtual experiences. However, small sample sizes and variations in study design limit the generalizability of the results. Nevertheless, the use of virtual and augmented reality technology for PLWD and MCI is a novel and emerging method which may provide cognitive stimulation and improve well-being. Future research should explore the potential application of this technology to promote social interaction in both the community and aged care settings. We suggest future studies in PLWD and MCI assess the effects of more sustained use of virtual and augmented reality technology on psychological outcomes including QoL, apathy, and depressive symptoms, with the incorporation of physiological biomarker outcomes. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
-KW  - *Dementia
-KW  - *Intervention
-KW  - *Virtual Reality
-KW  - *Mild Cognitive Impairment
-KW  - Alzheimer's Disease
-KW  - Augmented Reality
-M3  - doi:10.1159/000500040
-DO  - 10.1159/000500040
-ER  -
-TY  - JOUR
-PMID  - 24886353
-ID  - 2014-47959-001
-T1  - A complex multimodal activity intervention to reduce the risk of dementia in mild cognitive impairment–ThinkingFit: Pilot and feasibility study for a randomized controlled trial.
-JF  - BMC Psychiatry
-A1  - Dannhauser, Thomas M.
-A1  - Cleverley, Martin
-A1  - Whitfield, Tim J.
-A1  - Fletcher, Ben (C).
-A1  - Stevens, Tim
-A1  - Walker, Zuzana
-VL  - 14
-Y1  - 2014
-CY  - United Kingdom
-AD  - Dannhauser, Thomas M.: University College London, London, United Kingdom, t.dannhauser@ucl.ac.uk
-PB  - BioMed Central Limited
-SN  - 1471-244X(Electronic)
-N2  - Background: Dementia affects 35 million people worldwide and is currently incurable. Many cases may be preventable because regular participation in physical, mental and social leisure activities during middle age is associated with up to 47% dementia risk reduction. However, the majority of middle-aged adults are not active enough. MCI is therefore a clear target for activity interventions aimed at reducing dementia risk. An active lifestyle during middle age reduces dementia risk but it remains to be determined if increased activity reduces dementia risk when MCI is already evident. Before this can be investigated conclusively, complex multimodal activity programmes are required that (1) combine multiple health promoting activities, (2) engage people with MCI, and (3) result in sufficient adherence rates. Methods: We designed the ThinkingFit programme to engage people with MCI in a complex intervention comprised of three activity components: physical activity, group-based cognitive stimulation (GCST) and individual cognitive stimulation (ICST). Engagement and adherence was promoted by applying specific psychological techniques to enhance behavioural flexibility in an early pre-phase and during the course of the intervention. To pilot the intervention, participants served as their own controls during a 6- to 12-week run-in period, which was followed by 12 weeks of activity intervention. Results: Out of 212 MCI patients screened, 163 were eligible, 70 consented and 67 completed the intervention (mean age 74 years). Activity adherence rates were high: physical activity = 71%; GCST = 83%; ICST = 67%. Significant treatment effects (p < .05) were evident on physical health outcomes (decreased BMI and systolic blood pressure, [pre/post values of 26.3/25.9 kg/m² and 145/136 mmHg respectively]), fitness (decreased resting and recovery heart rate [68/65 bpm and 75/69 bpm]), and cognition (improved working memory [5.3/6.3 items]). Conclusions: We found satisfactory recruitment, retention and engagement rates, coupled with significant treatment effects in elderly MCI patients. It appears feasible to conduct randomized controlled trials of the dementia prevention potential of complex multimodal activity programmes like ThinkingFit. Trial registration: ClinicalTrials.gov registration nr: NCT01603862; date: 17/5/2012. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
-KW  - *Cognitive Impairment
-KW  - *Dementia
-KW  - *Physical Activity
-KW  - *Risk Factors
-KW  - *Mild Cognitive Impairment
-KW  - Alzheimer's Disease
-KW  - Intervention
-KW  - Prevention
-KW  - Stimulation
-M3  - doi:10.1186/1471-244X-14-129
-DO  - 10.1186/1471-244X-14-129
-ER  -
-TY  - JOUR
-PMID  - 30040477
-ID  - 2019-02957-005
-T1  - Cognitive stimulation of elderly individuals with instrumental virtual reality-based activities of daily life: Pre-post treatment study.
-JF  - Cyberpsychology, Behavior, and Social Networking
-A1  - Gamito, Pedro
-A1  - Oliveira, Jorge
-A1  - Morais, Diogo
-A1  - Coelho, Cátia
-A1  - Santos, Nuno
-A1  - Alves, Catarina
-A1  - Galamba, Ana
-A1  - Soeiro, Miguel
-A1  - Yerra, Madhurrima
-A1  - French, Hannan
-A1  - Talmers, Lily
-A1  - Gomes, Tiago
-A1  - Brito, Rodrigo
-VL  - 22
-IS  - 1
-SP  - 69
-EP  - 75
-Y1  - 2019
-CY  - Belgium
-AD  - Gamito, Pedro: School of Psychology and Life Sciences, Lusophone University of Humanities and Technologies, Campo Grande, 376, Lisbon, Portugal, 1749-024, pedro.gamito@ulusofona.pt
-PB  - Virtual Reality Medical Institute BVBA
-SN  - 2152-2723(Electronic),2152-2715(Print)
-N2  - As the demographic structure in western societies ages, the prevalence and impact of cognitive decline rises. Thus, new solutions to tackle this problem are required. The use of Information and Communication Technologies (ICT)-based cognitive exercises has emerged in the last few decades, though with inconsistent results. Hence, we conducted a pre-post treatment study to further investigate this approach. We designed a set of virtual reality exercises that mimic activities of daily living by which the patient can train different cognitive domains. Twenty-five participants, ages 65–85, underwent 12 training sessions between the pre-treatment and post-treatment assessments. Significant increases were seen between the two assessments for some of the neuropsychological measures: visual memory, attention, and cognitive flexibility. Results also suggest that participants with lower baseline cognitive performance levels improved most after these sessions. (PsycINFO Database Record (c) 2019 APA, all rights reserved)
-KW  - *Activities of Daily Living
-KW  - *Assistive Technology
-KW  - *Geriatric Patients
-KW  - *Virtual Reality
-KW  - Information and Communication Technology
-M3  - doi:10.1089/cyber.2017.0679
-DO  - 10.1089/cyber.2017.0679
-ER  -
-TY  - JOUR
 PMID  - 25142381
 ID  - 2014-35265-001
 T1  - The impact of subjective memory complaints on quality of life in community‐dwelling older adults.
@@ -730,31 +757,4 @@ KW  - Memory
 KW  - Self-Efficacy
 M3  - doi:10.1111/psyg.12056
 DO  - 10.1111/psyg.12056
-ER  -
-TY  - JOUR
-PMID  - 29904345
-ID  - 2018-27639-001
-T1  - A larger social network enhances novel object location memory and reduces hippocampal microgliosis in aged mice.
-JF  - Frontiers in Aging Neuroscience
-A1  - Smith, Bryon M.
-A1  - Yao, Xinyue
-A1  - Chen, Kelly S.
-A1  - Kirby, Elizabeth D.
-VL  - 10
-Y1  - 2018
-CY  - Switzerland
-AD  - Kirby, Elizabeth D.: kirby.224@osu.edu
-PB  - Frontiers Media S.A.
-SN  - 1663-4365(Electronic)
-N2  - The mammalian hippocampus shows marked decline in function with aging across many species, including humans and laboratory rodent models. This decline frequently manifests in memory impairments that occur even in the absence of dementia pathology. In humans, a number of factors correlate with preserved hippocampal memory in aging, such as exercise, cognitive stimulation and number of social ties. While interventional studies and animal models clearly indicate that exercise and cognitive stimulation lead to hippocampal preservation, there is relatively little research on whether a decline in social ties leads to cognitive decline or vice versa. Even in animal studies of environmental enrichment in aging, the focus typically falls on physical enrichment such as a rotating cast of toys, rather than the role of social interactions. The present studies investigated the hypothesis that a greater number of social ties in aging mice would lead to improved hippocampal function. Aged, female C57/Bl6 mice were housed for 3 months in pairs or large groups (7 mice per cage). Group-housed mice showed greater novel object location memory and stronger preference for a spatial navigation strategy in the Barnes maze, though no difference in escape latency, compared to pair-housed mice. Group-housed mice did not differ from pair-housed mice in basal corticosterone levels or adult hippocampal neurogenesis. Group-housed mice did, however, show reduced numbers of Iba1/CD68 + microglia in the hippocampus. These findings suggest that group housing led to better memory function and reduced markers of neuroinflammation in aged mice. More broadly, they support a causative link between social ties and hippocampal function, suggesting that merely having a larger social network can positively influence the aging brain. Future research should address the molecular mechanisms by which a greater number of social ties alters hippocampal function. (PsycINFO Database Record (c) 2018 APA, all rights reserved)
-KW  - *Animal Social Behavior
-KW  - *Hippocampus
-KW  - *Microglia
-KW  - *Neurogenesis
-KW  - *Neuroinflammation
-KW  - Aging
-KW  - Memory
-KW  - Mice
-M3  - doi:10.3389/fnagi.2018.00142
-DO  - 10.3389/fnagi.2018.00142
 ER  -
