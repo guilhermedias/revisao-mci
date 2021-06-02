@@ -74,10 +74,16 @@ Não é possível pesquisar em palavras-chave na Pubmed. Foram usados somente os
 
 ## Notas sobre Filtragem por Título
 
+### Resultados
+
 - Incluídos por concordância entre juízes.
   - 51
 - Incluídos por decisão de terceiro juiz.
   - 9
+
+### Total de Resultados
+
+Total de 60 referências.
 
 ## Notas sobre Filtragem por Critérios
 
@@ -95,3 +101,14 @@ Não é possível pesquisar em palavras-chave na Pubmed. Foram usados somente os
   - Estimulação cognitiva.
 - Resultados.
   - Pelo menos uma variável associada à memória.
+
+### Resultados
+
+- Incluídos por concordância entre juízes.
+  - 47
+- Incluídos por decisão de terceiro juiz.
+  - 2
+
+### Total de Resultados
+
+Total de 49 referências.
